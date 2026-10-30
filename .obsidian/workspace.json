@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "6391c47de0d49c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "641bcbe098b5a13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e56dcb19c5d2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw-sources/Chapter 16- Job Order Costing.sync-conflict-20220916-123417-PGUTCVY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 16- Job Order Costing.sync-conflict-20220916-123417-PGUTCVY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8d76bfda4b7319",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9b11d6fed34ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa7330fa79f39c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "522d042841038a3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffb84a77a7e70880",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "right": {
+    "id": "3d68217d59cc823c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9722f8ca13d1d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cffb9c53103408b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/business-law.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "050797b9ce568b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/business-law.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c9dd764abad05932",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e602b4bbe9d3788",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "96904fec3d1358e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/business-law.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a4ae18bc86de26ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "raw-sources/Chapter 16- Job Order Costing.sync-conflict-20220916-123417-PGUTCVY.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "82a962bfa77bf497",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a4ae18bc86de26ba",
+  "lastOpenFiles": [
+    "CLAUDE.md",
+    "raw-sources/10-30-2026.md",
+    "raw-sources/Practical workflow for reducing token usage in Claude Code while preserving session continuity. Includes compacting strategies, CLAUDE.md structure, modular context management, and prompt engineering.md",
+    "raw-sources/Module-8---Hypothesis-Test-an.md",
+    "raw-sources/10-29-2026.md",
+    "wiki/entities/josh-bayne.md",
+    "wiki/entities/sophia-bayne.md",
+    "wiki/entities/sophias-magical-princess-party.md",
+    "wiki/topics/people-private.md",
+    "wiki/concepts/warp-gates-and-montauk-events.md",
+    "wiki/entities/wave-echo-cave.md",
+    "wiki/concepts/sovereigns-and-apostles.md",
+    "wiki/lint-report.md",
+    "wiki/log.md",
+    "wiki/index.md.tmp.636451.0a86c735104a",
+    "wiki/index.md.tmp.636451.01d324339c6a",
+    "wiki/lint-report.md.tmp.636451.02bb17c35429",
+    "wiki/lint-report.md.tmp.636451.330d31eb1602",
+    "wiki/lint-report.md.tmp.636451.022631433e5d",
+    "raw-sources/Story beat ideas.md",
+    "wiki/index.md",
+    "wiki/overview.md",
+    "wiki/index.md.tmp.240376.211d1c9915d8",
+    "wiki/index.md.tmp.240376.8de913b5065a",
+    "wiki/index.md.tmp.240376.183e8ef4c03b",
+    "wiki/index.md.tmp.240376.91ca42e6ce76",
+    "wiki/index.md.tmp.240376.3f54b361053a",
+    "wiki/concepts/llm-token-economics.md",
+    "wiki/concepts/tiktok-safe-zones.md",
+    "wiki/entities/urnet.md",
+    "wiki/sources/claude-usage-limits-guide-hassid.md",
+    "wiki/sources/tiktok-safe-zones-guide-zeely.md",
+    "wiki/sources/journal-2026-10-29.md",
+    "archive/Daily Note Template.md",
+    "archive/oldCLAUDE.md",
+    "raw-sources/wiki-build-and-restructure-chat-summary.md",
+    "raw-sources/Vehicles-Still-Waters-image1.png",
+    "raw-sources/Story-Beats-Untitled-page-image2.png",
+    "raw-sources/Story-Beats-Untitled-page-image1.png",
+    "raw-sources/Story-Beats-The-Royale-image1.png",
+    "raw-sources/Story-Beats-Secret-Society-Meddling-image1.png",
+    "raw-sources/Story-Beats-Crimson-Empire-Invades-image1.png",
+    "raw-sources/Story-Beats-Accidental-Sacrifice-image1.png",
+    "raw-sources/Pasted image 20211207210846.png",
+    "raw-sources/Pasted image 20211207210715.png",
+    "raw-sources/Pasted image 20211207210542.png"
+  ]
+}

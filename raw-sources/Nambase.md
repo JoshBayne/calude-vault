@@ -1,0 +1,1 @@
+Solar punk in it's aesthetic, originally colonized by African settlers from areas like Nairobi and  Lagos, everything is in perfect harmony with the planet itself. While the cities are quite large and densely populated, pollution and such are no issue since every building essentially acts as a greenhouse.

@@ -1,0 +1,1 @@
+After Gat is given control of the stick for the first time, he flies it technically perfectly, but the Cpt tells him flying is as much an art as it is a science, and he still has a lot to learn. After a beat, Gat asks if Cpt would be willing to teach.

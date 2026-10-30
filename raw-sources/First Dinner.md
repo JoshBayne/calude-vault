@@ -1,0 +1,1 @@
+A scene that plays out where Alex attempts to cook for the ship, but because she only got the most literal definitions of various foods and techniques, while it is technically immaculate, the flavor is all wrong.

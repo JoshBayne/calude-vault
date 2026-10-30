@@ -1,0 +1,1 @@
+Change these for 3D prints to have the supports more easily detach, need to research

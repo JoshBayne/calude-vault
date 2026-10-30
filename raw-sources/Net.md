@@ -1,0 +1,1 @@
+The future version of the internet. Can be browsed as typical from a terminal like how we currently do it, or a user can use a set of goggles and gloves to fully interact with the net as in an endless virtual city. 

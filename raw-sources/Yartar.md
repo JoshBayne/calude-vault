@@ -1,0 +1,1 @@
+City that lies within the borders of [[Edenrath]].

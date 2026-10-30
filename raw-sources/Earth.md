@@ -1,0 +1,1 @@
+Space travel has become something of a regularity instead of a novelty that it used to be. Thanks to the launch of the JWST in the early 20's and its discovery of ancient warp gates, humanity made a mad dash to chart and discover the known universe. A new age of exploration has begun, where humans seek out the new and uncharted for a chance at glory. 

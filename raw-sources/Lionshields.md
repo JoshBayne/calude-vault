@@ -1,0 +1,1 @@
+A merchant company based in [[Yartar]], a city hundreds of miles to the east of Arian in the country of [[Edenrath]].

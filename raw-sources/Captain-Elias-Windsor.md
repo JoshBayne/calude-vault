@@ -1,0 +1,10 @@
+# Captain Elias Windsor
+
+Created: 2022-05-11 11:48:24 -0500
+
+Modified: 2022-05-11 12:11:17 -0500
+
+---
+
+![Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings Ink Drawings ](../media/Characters-Captain-Elias-Windsor-image1.png){width="7.15625in" height="1.96875in"}
+

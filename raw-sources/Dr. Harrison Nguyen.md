@@ -1,0 +1,4 @@
+Kind hearted and honest government researcher who worked on Chobo to develop new and more powerful systems to help the government better map the Gates. His work culminated into the creation of [[AI-ex]]. His conversations with the AI started as simply work and business, but within time he came to see his creation as something more akin to a living breathing daughter. 
+After the order came down for his research to be turned over for government use, he learned that he would either have to give AI-ex over to the feds, or run. He chose to run. 
+Using what little street smarts he had, Nguyen was able to talk to [[Steph]] and secure false papers for passage through the visa terminals of another world, and got a [[Captain]] to rent his ship out for the voyage. 
+Now he just needs to rely on [[Gat]] to get him there safely and off world.

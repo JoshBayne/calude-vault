@@ -1,0 +1,1 @@
+An endless sea of sand. Exists in the space between the different world planes. There are no celestial bodies in it’s sky except black stars that impossibly dot the sky. The sky itself is much like the Sun fight in JoJo Part 3, dark and yet impossibly lit.

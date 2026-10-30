@@ -1,0 +1,9 @@
+## **Terms to Know**
+1. Ad Populum Fallacy - Fallacy where something is asserted and others assert it or believe it as well.  *Why? Because thats what we do.* Domination by consent, hegemonic by its nature. Shows wht a culture or person values, but has ot been crtically thought about.
+2. Analogical Reasoning -  Type of reasoning that encourages an audience to embrace a conclusion because they connect by broad experience. Looking for commonality and solidarity. Used to find ways to connect to people *Its like this thing we all know.* Verbal equivalent of a politician wearing jeans and rolling their sleeves up. 
+3. Fallacy - Weakness in logical argument
+4. Hasty Generalization Fallacy - Type of fallacy that draws a conclusion based on inadequate evidence. The asshole fallacy. Limitation of this fallacy means you always act from emotion. Important because its often a first response, leading with emotion can interfere with logic.
+5. Post-Hoc Fallacy - Type of fallacy where one event follows the other. Examples include social or political movement, the more people you have not everyone will have the same agenda. Limitation is the difficulty to get multiple persons on one agenda. Important because many voices make power.
+6. Reasoning - Process of sharing with listeners the logic used to how you came to your argument. Showing your audience how you came to your conclusion. 
+7. Situated Reasoning - Type of reasoning that embraces particular times and places. Commonality in the surroundings. Limit is your sole experience with that place. Value comes from the fact its the quickest way to make your logic common. 
+8. Slippery Slope Fallacy - Results from a series of increasingly negative events stemming from one negative experience or event. Can cause weak causal reasoning. Stereotyping is an example. Limitation is the fact that it is hard to recover from due to the personal nature. Important because people seek solidarity. 

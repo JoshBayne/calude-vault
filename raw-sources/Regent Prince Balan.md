@@ -1,0 +1,1 @@
+Regent ruler of [[Arian]] while his father [[King Aldric]] lays in his sleepless slumber.

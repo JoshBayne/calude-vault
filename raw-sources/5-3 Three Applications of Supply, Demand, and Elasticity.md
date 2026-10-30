@@ -1,0 +1,3 @@
+#econ2302/chapter5 
+
+Can good news for farming be bad news for farmers? Why did OPEC, the international oil cartel, fail to keep the price of oil high? Does drug interdiction increase or decrease drug-related crime? At first, these questions might seem to have little in common. Yet all three questions are about markets, and all markets are subject to the forces of supply and demand. Here we apply the versatile tools of supply, demand, and elasticity to answer these seemingly complex questions.

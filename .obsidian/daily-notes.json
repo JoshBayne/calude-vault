@@ -1,0 +1,5 @@
+{
+  "format": "MM-DD-YYYY",
+  "folder": "raw-sources",
+  "template": "archive/Daily Note Template.md"
+}

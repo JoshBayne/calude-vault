@@ -1,0 +1,1 @@
+Network of adventurers and spies who advocate for equality and covertly oppose the abuse of power. Harpers gather informations throughout the land to thwart tyrants and any leader, government or group that grows too powerful. They aid the weak, poor, and the oppressed.
