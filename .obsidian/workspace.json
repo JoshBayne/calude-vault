@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "641bcbe098b5a13b",
+        "id": "1fc364f87c8d0645",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e56dcb19c5d2ac",
+            "id": "e06ba36c5992164a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw-sources/10-31-2026.md",
+                "file": "raw-sources/Princess Traffic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-31-2026"
+              "title": "Princess Traffic"
             }
           }
         ]
@@ -211,10 +211,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6e56dcb19c5d2ac",
+  "active": "1aa7330fa79f39c3",
   "lastOpenFiles": [
-    "raw-sources/Chapter 16- Job Order Costing.sync-conflict-20220916-123417-PGUTCVY.md",
+    "raw-sources/MTG cards and Artists.md",
+    "raw-sources/Princess Traffic.md",
+    "raw-sources/The Doll 2 (rebootquel).md",
+    "raw-sources/fashion-book-to-get.md",
+    "raw-sources/josh-gift-ideas.md",
+    "raw-sources/TikTok Live.md",
+    "Inbox/MTG cards and Artists (175521).md",
+    "Inbox/MTG cards and Artists (175602).md",
+    "Inbox/Untitled.md",
+    "Inbox/test (165744).md",
+    "Inbox/test (165736).md",
+    "Inbox/test.md",
+    "Inbox/test (165759).md",
+    "Inbox/test (165751).md",
     "raw-sources/10-31-2026.md",
+    "raw-sources/Chapter 16- Job Order Costing.sync-conflict-20220916-123417-PGUTCVY.md",
     "Inbox/first.md",
     "CLAUDE.md",
     "raw-sources/10-30-2026.md",
@@ -225,30 +239,16 @@
     "wiki/entities/sophia-bayne.md",
     "wiki/entities/sophias-magical-princess-party.md",
     "wiki/topics/people-private.md",
-    "wiki/concepts/warp-gates-and-montauk-events.md",
-    "wiki/entities/wave-echo-cave.md",
-    "wiki/concepts/sovereigns-and-apostles.md",
-    "wiki/lint-report.md",
-    "wiki/log.md",
     "wiki/index.md.tmp.636451.0a86c735104a",
     "wiki/index.md.tmp.636451.01d324339c6a",
     "wiki/lint-report.md.tmp.636451.02bb17c35429",
     "wiki/lint-report.md.tmp.636451.330d31eb1602",
     "wiki/lint-report.md.tmp.636451.022631433e5d",
-    "raw-sources/Story beat ideas.md",
-    "wiki/index.md",
-    "wiki/overview.md",
     "wiki/index.md.tmp.240376.211d1c9915d8",
     "wiki/index.md.tmp.240376.8de913b5065a",
     "wiki/index.md.tmp.240376.183e8ef4c03b",
     "wiki/index.md.tmp.240376.91ca42e6ce76",
     "wiki/index.md.tmp.240376.3f54b361053a",
-    "wiki/concepts/llm-token-economics.md",
-    "wiki/concepts/tiktok-safe-zones.md",
-    "wiki/entities/urnet.md",
-    "wiki/sources/claude-usage-limits-guide-hassid.md",
-    "wiki/sources/tiktok-safe-zones-guide-zeely.md",
-    "wiki/sources/journal-2026-10-29.md",
     "raw-sources/Vehicles-Still-Waters-image1.png",
     "raw-sources/Story-Beats-Untitled-page-image2.png",
     "raw-sources/Story-Beats-Untitled-page-image1.png",
