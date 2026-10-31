@@ -1,6 +1,6 @@
 # Wiki index
 
-> Updated: 2026-10-30 | Pages: 74 (counted excluding overview.md, index.md, log.md and lint-report.md)
+> Updated: 2026-10-31 | Pages: 78 (counted excluding overview.md, index.md, log.md and lint-report.md)
 
 Start with [[overview]].
 
@@ -12,9 +12,11 @@ Start with [[overview]].
 - [[sources/delrun-campaign-notes]] — Lost Mines of Delrun session recaps and ~45 setting pages
 - [[sources/empty-stub-and-unreadable-files]] — empty stubs, empty decks, and PDFs/binaries this connector cannot read
 - [[sources/gardners-art-history-ch14-15]] — Gardner's art-history chapters 14–15 (OCR page images)
+- [[sources/journal-2026-10-30-and-31]] — 2026-10-30 and 10-31 journal: investor and payroll wait, vault move, phone-to-git capture trouble (private)
 - [[sources/journal-2026-10-29]] — 2026-10-29 journal entry: dog, Sophia's TikTok streaming, work and funding worries, health plans (private)
 - [[sources/personal-notes]] — journal entries, weekly planning pages and hobby logs (private)
 - [[sources/personal-private-notes]] — full private journal, people pages, wishlists and lists (private)
+- [[sources/phone-inbox-notes-2026-10-31]] — six phone notes: gift list, MTG artists and cards, film ideas, a book title (private)
 - [[sources/remote-vault-clipper-chat-summary]] — chat write-up: building the Remote Vault Clipper extension and fixing the SWAG proxy route
 - [[sources/sci-fi-setting-notes]] — United Interstellar Coalition lore, story beats and ink-only pages
 - [[sources/smpp-and-sharepoint-ai-transcripts]] — full read of the pricing, lightbox and investor-portal AI chats
@@ -69,6 +71,7 @@ Start with [[overview]].
 - [[topics/dnd-campaigns-and-worldbuilding]] — campaign timeline and sci-fi overview
 - [[topics/economics]] — ECON 2301/2302 synthesis
 - [[topics/energy-and-environmental-economics]] — externalities, property rights and electricity-market notes
+- [[topics/film-and-video-ideas]] — *The Doll 2*, *Princess Traffic* and *TikTok Live* premises (private)
 - [[topics/financial-accounting]] — double entry, trial balance and flagged errors
 - [[topics/information-systems-and-security]] — MIS concepts and security stub
 - [[topics/intermediate-accounting]] — inventory valuation, quizzes and reviews
@@ -78,6 +81,7 @@ Start with [[overview]].
 - [[topics/obsidian-mcp-integration]] — design, setup steps and troubleshooting for Claude Desktop access to this vault
 - [[topics/people-private]] — Will and Cady Jarman, family and friends (private)
 - [[topics/personal-and-hobbies]] — guitar log, vinyl wishlist, dioramas and tools
+- [[topics/phone-capture-workflow]] — pushing Android notes to the vault by git; status and open questions
 - [[topics/princess-party-business-smpp]] — website plan, design notes and AI build requests
 - [[topics/public-speaking]] — COMM 1315 terms and speech assignments
 - [[topics/remote-vault-clipper]] — fork of Obsidian Web Clipper that saves clips to this vault through the Local REST API and SWAG

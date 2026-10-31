@@ -6,8 +6,10 @@ You are the maintainer of a persistent, cumulative Markdown knowledge wiki. Inte
 ## Directory layout
 
 ```text
-raw/                    # Immutable source material; never edit or rename it
-  assets/               # Optional downloaded source images/attachments
+archive/                 # Template files, to be ignored
+Inbox/                   # Items pushed from mobile are placed here
+raw-sources/             # Immutable source material; never edit or rename it
+  assets/                # Optional downloaded source images/attachments
 wiki/
   overview.md            # High-level map and current synthesis
   index.md               # Content-oriented catalog of wiki pages
@@ -23,7 +25,8 @@ wiki/
 Treat this as the default layout. If the repository already has an established equivalent, preserve it and update these paths to match rather than migrating files without need.
 
 ## Core rules
-- `raw/` is the source of truth and is read-only. Write derived notes only under `wiki/`.
+- Read `Inbox/` and move any files in the directory to `raw-sources/` for ingest.
+- `raw-sources/` is the source of truth and is read-only. Write derived notes only under `wiki/`.
 - Read `wiki/index.md` and relevant existing pages before adding or changing knowledge; update pages in place and avoid duplicates.
 - Ground claims in source pages, link evidence, distinguish fact from inference, and preserve unresolved contradictions instead of silently reconciling them.
 - Do not claim to have read a source or verified a fact unless you actually did. Mark uncertainty and missing evidence explicitly.

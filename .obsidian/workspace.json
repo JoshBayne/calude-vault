@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc364f87c8d0645",
+        "id": "ae43d88e5ac60ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "e06ba36c5992164a",
+            "id": "f4cdbf6ee876a6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw-sources/Princess Traffic.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Princess Traffic"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/business-law.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,6 +213,17 @@
   },
   "active": "1aa7330fa79f39c3",
   "lastOpenFiles": [
+    "file:C:/Users/joshb/Downloads/SKILL.md",
+    "wiki/index.md.tmp.10264.09a329c10d69",
+    "wiki/index.md.tmp.10264.67f13948f4b4",
+    "wiki/entities/josh-bayne.md.tmp.10264.7ea57e52065c",
+    "wiki/entities/josh-bayne.md.tmp.10264.fd1f086cede7",
+    "wiki/entities/josh-bayne.md.tmp.10264.93f9cde939c2",
+    "wiki/entities/sophia-bayne.md.tmp.10264.ba10ad6a8ec7",
+    "wiki/topics/phone-capture-workflow.md",
+    "wiki/topics/film-and-video-ideas.md",
+    "wiki/sources/phone-inbox-notes-2026-10-31.md",
+    "wiki/sources/journal-2026-10-30-and-31.md",
     "raw-sources/MTG cards and Artists.md",
     "raw-sources/Princess Traffic.md",
     "raw-sources/The Doll 2 (rebootquel).md",
@@ -234,21 +245,10 @@
     "raw-sources/10-30-2026.md",
     "raw-sources/Practical workflow for reducing token usage in Claude Code while preserving session continuity. Includes compacting strategies, CLAUDE.md structure, modular context management, and prompt engineering.md",
     "raw-sources/Module-8---Hypothesis-Test-an.md",
-    "raw-sources/10-29-2026.md",
-    "wiki/entities/josh-bayne.md",
-    "wiki/entities/sophia-bayne.md",
-    "wiki/entities/sophias-magical-princess-party.md",
-    "wiki/topics/people-private.md",
     "wiki/index.md.tmp.636451.0a86c735104a",
     "wiki/index.md.tmp.636451.01d324339c6a",
     "wiki/lint-report.md.tmp.636451.02bb17c35429",
     "wiki/lint-report.md.tmp.636451.330d31eb1602",
-    "wiki/lint-report.md.tmp.636451.022631433e5d",
-    "wiki/index.md.tmp.240376.211d1c9915d8",
-    "wiki/index.md.tmp.240376.8de913b5065a",
-    "wiki/index.md.tmp.240376.183e8ef4c03b",
-    "wiki/index.md.tmp.240376.91ca42e6ce76",
-    "wiki/index.md.tmp.240376.3f54b361053a",
     "raw-sources/Vehicles-Still-Waters-image1.png",
     "raw-sources/Story-Beats-Untitled-page-image2.png",
     "raw-sources/Story-Beats-Untitled-page-image1.png",

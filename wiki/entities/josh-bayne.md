@@ -1,8 +1,8 @@
 ---
 type: entity
 name: "Josh Bayne"
-updated: 2026-10-30
-sources: 4
+updated: 2026-10-31
+sources: 6
 aliases: ["Josh", "the author", "the vault owner"]
 tags: [entity, person, private]
 privacy: private
@@ -19,14 +19,15 @@ The owner of the vault and author of nearly all raw notes. This page gathers fac
 - Engaged 2021-12-12; married to [[entities/sophia-bayne]] by 2026 — [[sources/personal-private-notes]], [[sources/journal-2026-10-29]]
 - Runs the tabletop campaign "Lost Mines of Delrun" as game master and built the sci-fi setting — [[topics/dnd-campaigns-and-worldbuilding]]
 - Hobbies: guitar, vinyl, Gundam dioramas, 3D printing — [[topics/personal-and-hobbies]]
+- Writes film and video ideas starring his wife, keeps tiered gift and MTG wishlists, and is setting up phone-to-vault note capture — [[topics/film-and-video-ideas]], [[topics/personal-and-hobbies]], [[topics/phone-capture-workflow]]
 - Builds the tooling around this vault: Claude Desktop access over MCP and the Remote Vault Clipper — [[topics/obsidian-mcp-integration]], [[topics/remote-vault-clipper]]
 
 ## Relationships
-- Journals: [[topics/daily-notes-2022]], [[sources/journal-2026-10-29]]
+- Journals: [[topics/daily-notes-2022]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]]
 - People around him: [[topics/people-private]]
 
 ## Open questions
 - The marriage date, what URNET does, and the SBA loan outcome are not recorded.
 
 ## Sources
-- [[sources/personal-private-notes]], [[sources/journal-2026-10-29]], [[sources/business-and-work-notes]]
+- [[sources/personal-private-notes]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/phone-inbox-notes-2026-10-31]], [[sources/business-and-work-notes]]

@@ -1,8 +1,8 @@
 ---
 type: entity
 name: "Sophia Leigh-Ann Bayne (née Cararro)"
-updated: 2026-10-30
-sources: 2
+updated: 2026-10-31
+sources: 3
 aliases: ["Soph", "Sophia"]
 tags: [entity, person, private]
 privacy: private
@@ -22,6 +22,7 @@ Josh's partner in the 2021–2022 notes and his spouse by 2026 (marriage date un
 - Gift ideas and a tentative 18-name wedding guest list exist in the vault — [[topics/personal-and-hobbies]]
 - Journal 2026-10-29: the couple have since married, moved to a new house, and been to Japan — [[sources/journal-2026-10-29]]
 - Journal 2026-10-29: she streams on TikTok. She runs an Eras Tour tribute show that is "mildly successful" now, though at the concert's height she regularly drew thousands of live viewers. Josh thinks she should branch into other content, and he says she has hinted at the same — [[sources/journal-2026-10-29]]
+- Phone notes 2026-10-31: she is the lead in three of Josh's film and video ideas (*The Doll 2*, *Princess Traffic*, *TikTok Live*) — [[topics/film-and-video-ideas]], [[sources/phone-inbox-notes-2026-10-31]]
 
 ## Relationships
 - Spouse of Josh Bayne (author) as of the 2026-10-29 note; the earlier notes call her partner and fiancée
@@ -36,3 +37,4 @@ Josh's partner in the 2021–2022 notes and his spouse by 2026 (marriage date un
 ## Sources
 - [[sources/personal-private-notes]]
 - [[sources/journal-2026-10-29]] — marriage, move, TikTok live shows
+- [[sources/phone-inbox-notes-2026-10-31]] — appears in story ideas

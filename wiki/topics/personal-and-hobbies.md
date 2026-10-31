@@ -1,7 +1,7 @@
 ---
 type: topic
 name: "Personal and hobbies"
-updated: 2026-10-28
+updated: 2026-10-31
 sources: 1
 source_pages: ["[[sources/personal-notes]]"]
 tags: [topic, hobbies, personal, music, 3d-printing]
@@ -32,6 +32,11 @@ A checklist of skill levels 0–6. **Level 0** (all checked): hold guitar and pi
 - **Concealed Carry is Dumb**: copied Reddit post (not his own words) arguing concealed carry failed to make society safer. One-sided; no data. Other side: gun-rights groups cite defensive-use studies. Saved 2022-01-25; see [[topics/daily-notes-2022]].
 - **Gift Ideas for Soph**, **Snacks Soph Likes**, **Tentative wedding Guestlist** (18 first names): see [[entities/sophia-bayne]].
 - **Drag Guess Who** (2022-01-15): about 24 main-board and 18 alt-board drag performers for a guess-who game; idea only.
+
+## Wishlists and card interests (2026-10-31)
+- **Gift ideas for himself**, in three tiers plus essentials: a Bambu Labs 3D printer, Valve VR headset and Steam Machine, induction-ready pans and a ChessUp 2 board at the top; prescription sunglasses, hi-fi speakers and top-shelf drinks in the middle; frames for animation cels, Gundam models, guitar lessons, CDs and MTG packs (not Avatar, Spider-Man or Aetherdrift) at the low end. Extends the 2022 wishlist above, which also covered hi-fi — [[sources/phone-inbox-notes-2026-10-31]]
+- **Magic: The Gathering:** favourite artists (Seb McKinnon, Junji Ito, Chris Rahn, Yoshitaka Amano and others) and a card wish list — [[sources/phone-inbox-notes-2026-10-31]]
+- `fashion-book-to-get`: a single line, "Unlock your aesthetic".
 
 ## Models and making
 - `Gundam Diorama Ideas`: four scenes: a **city street** defense (GM Sniper, Blue Destiny), two **space** scenes (GP-01 Fb, Zeta, Thunderbolt; Unicorn-era suits), and a **tournament arena** (God and Burning Gundam variants), each with parts lists.
