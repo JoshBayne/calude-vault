@@ -1,6 +1,6 @@
 # Wiki index
 
-> Updated: 2026-10-31 | Pages: 78 (counted excluding overview.md, index.md, log.md and lint-report.md)
+> Updated: 2026-11-01 | Pages: 81 (counted excluding overview.md, index.md, log.md and lint-report.md)
 
 Start with [[overview]].
 
@@ -13,10 +13,12 @@ Start with [[overview]].
 - [[sources/empty-stub-and-unreadable-files]] — empty stubs, empty decks, and PDFs/binaries this connector cannot read
 - [[sources/gardners-art-history-ch14-15]] — Gardner's art-history chapters 14–15 (OCR page images)
 - [[sources/journal-2026-10-30-and-31]] — 2026-10-30 and 10-31 journal: investor and payroll wait, vault move, phone-to-git capture trouble (private)
+- [[sources/journal-2026-11-01]] — 2026-11-01 journal: Halloween party, low mood, pay worry, moving items between houses (private)
 - [[sources/journal-2026-10-29]] — 2026-10-29 journal entry: dog, Sophia's TikTok streaming, work and funding worries, health plans (private)
 - [[sources/personal-notes]] — journal entries, weekly planning pages and hobby logs (private)
 - [[sources/personal-private-notes]] — full private journal, people pages, wishlists and lists (private)
 - [[sources/phone-inbox-notes-2026-10-31]] — six phone notes: gift list, MTG artists and cards, film ideas, a book title (private)
+- [[sources/phone-old-notes-batch-2026-10-31]] — 17 old phone files: story ideas, video and meme ideas, Sophia gift list, art list, a dream (private)
 - [[sources/remote-vault-clipper-chat-summary]] — chat write-up: building the Remote Vault Clipper extension and fixing the SWAG proxy route
 - [[sources/sci-fi-setting-notes]] — United Interstellar Coalition lore, story beats and ink-only pages
 - [[sources/smpp-and-sharepoint-ai-transcripts]] — full read of the pricing, lightbox and investor-portal AI chats
@@ -71,7 +73,7 @@ Start with [[overview]].
 - [[topics/dnd-campaigns-and-worldbuilding]] — campaign timeline and sci-fi overview
 - [[topics/economics]] — ECON 2301/2302 synthesis
 - [[topics/energy-and-environmental-economics]] — externalities, property rights and electricity-market notes
-- [[topics/film-and-video-ideas]] — *The Doll 2*, *Princess Traffic* and *TikTok Live* premises (private)
+- [[topics/film-and-video-ideas]] — *The Doll 2*, *Princess Traffic*, *TikTok Live*, plus video-essay, Star Trek and meme ideas (private)
 - [[topics/financial-accounting]] — double entry, trial balance and flagged errors
 - [[topics/information-systems-and-security]] — MIS concepts and security stub
 - [[topics/intermediate-accounting]] — inventory valuation, quizzes and reviews
@@ -87,6 +89,7 @@ Start with [[overview]].
 - [[topics/remote-vault-clipper]] — fork of Obsidian Web Clipper that saves clips to this vault through the Local REST API and SWAG
 - [[topics/sci-fi-setting-uic]] — UIC, The Clan, the Net and the AI story
 - [[topics/statistics]] — DSCI 3321/3331 inference and decision analysis
+- [[topics/story-ideas]] — unfinished fiction and premises: *Structural integrity failing*, *Cult*, *Way Gates* and others
 - [[topics/uhcl-coursework]] — course map and unassigned notes
 - [[topics/work-and-web-projects]] — saved Q&A on messaging, SharePoint, AP and scripting
 

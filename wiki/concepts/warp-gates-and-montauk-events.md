@@ -1,8 +1,8 @@
 ---
 type: concept
 name: "Warp gates and Montauk Events"
-updated: 2026-10-30
-sources: 1
+updated: 2026-11-01
+sources: 2
 tags: [concept, sci-fi, worldbuilding]
 ---
 
@@ -19,6 +19,7 @@ In the sci-fi setting, **warp gates** are ancient structures of unknown origin t
 
 ## Related concepts
 - [[topics/sci-fi-setting-uic]] — the wider setting
+- [[topics/story-ideas]] — the `Way Gates` premise: relics of a lost galactic power, a "webway of jump points", and "Did something else come through?" It does not name this setting, so the link is inference — [[sources/phone-old-notes-batch-2026-10-31]]
 
 ## Open questions and disagreements
 - The notes do not say how the UIC reacts to the growing number of Montauk Events.
@@ -27,3 +28,4 @@ In the sci-fi setting, **warp gates** are ancient structures of unknown origin t
 
 ## Sources
 - [[sources/sci-fi-setting-notes]]
+- [[sources/phone-old-notes-batch-2026-10-31]] — a possibly related premise

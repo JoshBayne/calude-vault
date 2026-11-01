@@ -1,8 +1,8 @@
 ---
 type: entity
 name: "URNET"
-updated: 2026-10-31
-sources: 2
+updated: 2026-11-01
+sources: 3
 aliases: ["the new company"]
 tags: [entity, organization, business, private]
 privacy: private
@@ -19,6 +19,7 @@ Company where Josh works for his father, per the 2026-10-29 journal. The note gi
 - As of 2026-10-29 the bank account is "essentially empty" after payroll. The lead investor, Steve Trauber, has his brother putting $500k into it; timing unknown — [[sources/journal-2026-10-29]]
 - Subscription agreements were sent to a coworker, Victoria, to prepare for DocuSign; status unknown — [[sources/journal-2026-10-29]]
 - 2026-10-30: Josh texted his father that messaging with "Doug Trauber" has gone well and got "all good" back; he hopes the money arrives soon so payroll can run — [[sources/journal-2026-10-30-and-31]]
+- 2026-11-01: Josh expects Alexey to ask about the status of pay on Monday and says "the Taiwan devs are now officially behind". The note does not name URNET; that it means URNET, and that "behind" means late pay, are both inference — [[sources/journal-2026-11-01]]
 
 ## Relationships
 - Predecessor in Josh's work history: [[entities/bayne-homeworks]] (store closed around 2022, per the journal)
@@ -27,8 +28,10 @@ Company where Josh works for his father, per the 2026-10-29 journal. The note gi
 ## Open questions
 - Investor name: the 10-29 note says Steve Trauber (with his brother putting in $500k); the 10-30 note says Doug Trauber. Two people, a slip, or a change is not settled.
 - What the company does, its legal name and spelling, and whether the investment closed.
+- Alexey's role, and whether the Taiwan devs are staff or contractors of URNET.
 - Whether the investor portal and subscription-agreement work in the transcripts belong to URNET.
 
 ## Sources
 - [[sources/journal-2026-10-29]] — employment, raise, cash position, investor
 - [[sources/journal-2026-10-30-and-31]] — payroll waiting on the investor's money
+- [[sources/journal-2026-11-01]] — pay worry, Alexey, Taiwan devs

@@ -1,8 +1,8 @@
 ---
 type: topic
 name: "Personal and hobbies"
-updated: 2026-10-31
-sources: 1
+updated: 2026-11-01
+sources: 3
 source_pages: ["[[sources/personal-notes]]"]
 tags: [topic, hobbies, personal, music, 3d-printing]
 status: ingested-partial
@@ -37,6 +37,12 @@ A checklist of skill levels 0–6. **Level 0** (all checked): hold guitar and pi
 - **Gift ideas for himself**, in three tiers plus essentials: a Bambu Labs 3D printer, Valve VR headset and Steam Machine, induction-ready pans and a ChessUp 2 board at the top; prescription sunglasses, hi-fi speakers and top-shelf drinks in the middle; frames for animation cels, Gundam models, guitar lessons, CDs and MTG packs (not Avatar, Spider-Man or Aetherdrift) at the low end. Extends the 2022 wishlist above, which also covered hi-fi — [[sources/phone-inbox-notes-2026-10-31]]
 - **Magic: The Gathering:** favourite artists (Seb McKinnon, Junji Ito, Chris Rahn, Yoshitaka Amano and others) and a card wish list — [[sources/phone-inbox-notes-2026-10-31]]
 - `fashion-book-to-get`: a single line, "Unlock your aesthetic".
+
+## Art, reading and dreams (old phone notes)
+- `Art I like`: six works, listed without artists: *The Bat Woman* (1890), *The Head of Medusa* (1892), *Abbey in the Oakwood*, *The Fallen Angel*, *Stanczyk*, *Hypnosis* (1904). Tentative attributions are on the source page — [[sources/phone-old-notes-batch-2026-10-31]]
+- `Book recommendation from Seth`: "He who fights with monsters" — [[sources/phone-old-notes-batch-2026-10-31]]
+- `1-29-24 dream`: a dream log with an orangutan in the walls, a three-stage competition and a family-history fragment that the author marks as impossible — [[sources/phone-old-notes-batch-2026-10-31]]
+- `Sophia Gift Ideas`: a long Christmas-style list; see [[entities/sophia-bayne]] — [[sources/phone-old-notes-batch-2026-10-31]]
 
 ## Models and making
 - `Gundam Diorama Ideas`: four scenes: a **city street** defense (GM Sniper, Blue Destiny), two **space** scenes (GP-01 Fb, Zeta, Thunderbolt; Unicorn-era suits), and a **tournament arena** (God and Burning Gundam variants), each with parts lists.

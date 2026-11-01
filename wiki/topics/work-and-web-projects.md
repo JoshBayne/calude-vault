@@ -32,7 +32,7 @@ Saved AI-assistant conversations and short tool notes related to running a small
 
 ### Web and content
 - **Bulma components** (`navbar`, `card`, `large hero banner`): HTML snippets and doc links used for the SMPP site (see [[topics/princess-party-business-smpp]]).
-- **YouTube ideas** (`youtube ideas`, ~14 KB): a prompt that asks the assistant to act as a **five-member deliberating committee** to develop a video-essay script arguing that the animated show *Home Movies* (Brendon Small, 1999) has one of the best series endings, covering the finale, preceding arcs and the show's in-show movies.
+- **YouTube ideas** (`youtube ideas`, ~14 KB): a prompt that asks the assistant to act as a **five-member deliberating committee** to develop a video-essay script arguing that the animated show *Home Movies* (Brendon Small, 1999) has one of the best series endings, covering the finale, preceding arcs and the show's in-show movies. Corrected 2026-11-01: most of the file is a later session on *Dear Evan Hansen*, testing three claims (consequences, disability coding, suicide portrayal). The author chose a "disproportionately mild consequences" framing, a broader neurodivergence critique and only brief space for defenders. It refers back to earlier *Home Movies* and *RENT* work, but the file stops before any finished framework. Related titles: [[topics/film-and-video-ideas]].
 
 ### Tools list
 - `Programs-to-reinstall` (2025-02-28): Orcaslicer, Bleachbit, Topaz Photo AI, Guitar Pro 8, TabStop, Affinity, Calibre, Obsidian(?), Mullvad, SuperDisplay, "HumbleBundle Photo Tools???", Python, ffmpeg, Ruby.
@@ -47,6 +47,6 @@ Saved AI-assistant conversations and short tool notes related to running a small
 | `nested files` | Shell approaches for flattening directories. |
 | `compliance goals` | Finance-to-compliance (SOC 2) career mapping. |
 | `ap-ar`, `ap-ar files` | AP compliance and folder structure (see financial accounting page). |
-| `youtube ideas` | Video-essay committee prompt about *Home Movies*. |
+| `youtube ideas` | Video-essay committee prompt about *Home Movies*, then a *Dear Evan Hansen* planning session. |
 | `navbar`, `card`, `large hero banner` | Bulma web snippets. |
 | `Programs-to-reinstall` | Software reinstall checklist. |

@@ -1,8 +1,8 @@
 ---
 type: entity
 name: "Sophia Leigh-Ann Bayne (née Cararro)"
-updated: 2026-10-31
-sources: 3
+updated: 2026-11-01
+sources: 5
 aliases: ["Soph", "Sophia"]
 tags: [entity, person, private]
 privacy: private
@@ -23,6 +23,8 @@ Josh's partner in the 2021–2022 notes and his spouse by 2026 (marriage date un
 - Journal 2026-10-29: the couple have since married, moved to a new house, and been to Japan — [[sources/journal-2026-10-29]]
 - Journal 2026-10-29: she streams on TikTok. She runs an Eras Tour tribute show that is "mildly successful" now, though at the concert's height she regularly drew thousands of live viewers. Josh thinks she should branch into other content, and he says she has hinted at the same — [[sources/journal-2026-10-29]]
 - Phone notes 2026-10-31: she is the lead in three of Josh's film and video ideas (*The Doll 2*, *Princess Traffic*, *TikTok Live*) — [[topics/film-and-video-ideas]], [[sources/phone-inbox-notes-2026-10-31]]
+- Journal 2026-11-01: she was in a production of *Heathers* "early last year" (so early 2025), directed by Alex, and enjoyed the 2026-10-31 Halloween party with Livi, Nicole and Alex — [[sources/journal-2026-11-01]]
+- A gift list in her name covers Monster High dolls, perfumes, a Rapunzel wig, AirTags and stocking stuffers. One item reads "match to my skin", so she may have written it herself (inference) — [[sources/phone-old-notes-batch-2026-10-31]]
 
 ## Relationships
 - Spouse of Josh Bayne (author) as of the 2026-10-29 note; the earlier notes call her partner and fiancée
@@ -38,3 +40,5 @@ Josh's partner in the 2021–2022 notes and his spouse by 2026 (marriage date un
 - [[sources/personal-private-notes]]
 - [[sources/journal-2026-10-29]] — marriage, move, TikTok live shows
 - [[sources/phone-inbox-notes-2026-10-31]] — appears in story ideas
+- [[sources/journal-2026-11-01]] — *Heathers* production, Halloween party
+- [[sources/phone-old-notes-batch-2026-10-31]] — gift list
