@@ -24,6 +24,7 @@ Study-guide outlines; the presentation notes paraphrase a single study.
 - Only the opening ~3,000 characters of `Exam-2-Review` (environmental economics) were read in full; the rest was skimmed.
 - `HW2`, `Week-*` and `Review-Links` are link-only or empty. `Exam-3-review` (2022) is an unrelated empty stub.
 - Legal statements are the author's study notes, not verified against current law.
+- **Update 2026-11-01:** the course syllabus was read. It names the texts behind "LT" and "D" and disagrees with `Exam-2-Review` on Exam 2's chapters — [[sources/uhcl-syllabi-and-course-files]], [[topics/energy-and-environmental-economics]]
 
 ## Entities and concepts
 - [[concepts/externalities-and-public-goods]] — externalities and property rights

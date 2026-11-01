@@ -21,6 +21,7 @@ The owner of the vault and author of nearly all raw notes. This page gathers fac
 - Hobbies: guitar, vinyl, Gundam dioramas, 3D printing — [[topics/personal-and-hobbies]]
 - Writes film and video ideas starring his wife, keeps tiered gift and MTG wishlists, and is setting up phone-to-vault note capture — [[topics/film-and-video-ideas]], [[topics/personal-and-hobbies]], [[topics/phone-capture-workflow]]
 - Keeps old phone notes with unfinished sci-fi and horror fiction, video-essay titles and memes — [[topics/story-ideas]], [[topics/film-and-video-ideas]], [[sources/phone-old-notes-batch-2026-10-31]]
+- Is planning a series of long video essays on TV endings and stage musicals, with five frameworks done and no scripts — [[topics/video-essay-series]]
 - Builds the tooling around this vault: Claude Desktop access over MCP and the Remote Vault Clipper — [[topics/obsidian-mcp-integration]], [[topics/remote-vault-clipper]]
 
 ## Relationships
@@ -31,4 +32,4 @@ The owner of the vault and author of nearly all raw notes. This page gathers fac
 - The marriage date, what URNET does, and the SBA loan outcome are not recorded.
 
 ## Sources
-- [[sources/personal-private-notes]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/phone-inbox-notes-2026-10-31]], [[sources/phone-old-notes-batch-2026-10-31]], [[sources/journal-2026-11-01]], [[sources/business-and-work-notes]]
+- [[sources/personal-private-notes]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/phone-inbox-notes-2026-10-31]], [[sources/phone-old-notes-batch-2026-10-31]], [[sources/journal-2026-11-01]], [[sources/business-and-work-notes]], [[sources/video-essay-series-plans]]

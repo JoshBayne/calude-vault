@@ -1,9 +1,9 @@
 ---
 type: topic
 name: "Business math (MATH 1324)"
-updated: 2026-10-28
-sources: 1
-source_pages: ["[[sources/uhcl-quantitative-notes]]"]
+updated: 2026-11-01
+sources: 2
+source_pages: ["[[sources/uhcl-quantitative-notes]]", "[[sources/uhcl-syllabi-and-course-files]]"]
 tags: [topic, math, math1324, business-math]
 courses: [MATH 1324]
 status: ingested-partial
@@ -45,6 +45,9 @@ Notes from UHCL **MATH 1324** (Mathematics for Business and Social Sciences), Ch
 ### 2.1 Quadratic equations
 - Solve by **factoring** (one side must be zero; zero-product property) or the **square root property**. Results: 8x − 4x² = 0 → x = 0 or 2; 9t² + 6t + 1 = 0 → t = −1/3; (x − 4)(x + 3) = 18 → x = −5 or 6; (z − 2)² = 3z + 12 → z = −1 or 8. `Chapter 1.4 Graphing Utilities` is an empty file.
 
+### Course scope beyond these notes
+The 53-problem final review shows the course went well past the notes, which stop at Chapter 2.1. It also covers quadratic optimization (vertex, maximum revenue and profit), matrices and row reduction, linear inequalities, linear programming and the simplex method, logarithms and exponential decay, simple and compound interest, annuities and loans, conditional probability, and the mean and standard deviation of a discrete distribution — [[sources/uhcl-syllabi-and-course-files]]. Its equations did not survive text extraction, and it has no answers.
+
 ## Data-quality flags
 Minor typos in the source notes (final answers are correct): in `Chapter 1.2`, an intermediate step for g(t + 3) writes 2(t + 2) instead of 2(t + 3), and the h/g quotient shows x² + 2 where g(x) = x² + 1; in `Chapter 1.3`, "g(−1) = y" should read 7.
 
@@ -64,4 +67,5 @@ Minor typos in the source notes (final answers are correct): in `Chapter 1.2`, a
 | `Chapter 1.3 Linear Functions` | Slope, intercepts, point-slope, parallel/perpendicular lines. |
 | `Chapter 1.4 Graphing Utilities` | Empty. |
 | `Chapter 1.5`, `Chapter 1.6`, `Chapter 2.1 Quadratic Equations` | Systems, business applications, quadratics (see sections above). |
-| `1324-final-exam-review-proble`, `syllabus 1324-01 sp22.pdf` | Listed; not read. |
+| `1324-final-exam-review-problems.pdf.PDF.pdf` | Final review problems, read 2026-11-01 for topics only (equations lost in extraction). |
+| `1324-final-exam-review-proble`, `syllabus 1324-01 sp22.pdf` | The `.md` is a wrapper around page images, not read. The syllabus is a scan, unread. |

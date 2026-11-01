@@ -23,6 +23,7 @@ Definition lists and assignment prompts; no recordings or drafts.
 ## Limitations and caveats
 - `Primary-Source-Pack` and `Papers` are empty. `Cap Paper` is a two-line outline and its course is unclear. `Fall-2023-ARTS-1304` has no text and `Gardner's---Ch.-14-15.pdf.md` (~190 KB textbook extract) was not summarized here (update 2026-10-29: now covered in [[sources/gardners-art-history-ch14-15]]).
 - Course owner of `Operations` and `Chapter 2 - Thriving in Business` is not stated.
+- **Update 2026-11-01:** the COMM 1315 syllabus schedules a "CAP PAPER", so `Cap Paper` is probably that assignment (inference) — [[sources/uhcl-syllabi-and-course-files]]
 
 ## Entities and concepts
 - [[concepts/statistical-inference]] — fallacies as informal inference errors (see [[topics/cross-domain-connections]])

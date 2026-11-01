@@ -1,9 +1,9 @@
 ---
 type: topic
 name: "Financial accounting (ACCT 2301)"
-updated: 2026-10-28
-sources: 1
-source_pages: ["[[sources/uhcl-accounting-notes]]"]
+updated: 2026-11-01
+sources: 2
+source_pages: ["[[sources/uhcl-accounting-notes]]", "[[sources/uhcl-syllabi-and-course-files]]"]
 tags: [topic, accounting, acct2301, financial-accounting]
 courses: [ACCT 2301]
 status: ingested-partial
@@ -11,7 +11,7 @@ status: ingested-partial
 
 # Financial Accounting (ACCT 2301)
 
-Notes from UHCL **ACCT 2301 – Principles of Accounting I**, built around a Cengage-style textbook (the recurring **NetSolutions** example). Continues in [[topics/managerial-accounting]] (ACCT 2302-level material). Debit/credit logic also underpins the AP notes in [[topics/work-and-web-projects]]. Part of [[topics/uhcl-coursework]].
+Notes from UHCL **ACCT 2301 – Principles of Accounting I**, built around Cengage's *Financial & Managerial Accounting* 15e, whose Chapter 1 deck has the same **NetSolutions** example. Continues in [[topics/managerial-accounting]] (ACCT 2302-level material). Debit/credit logic also underpins the AP notes in [[topics/work-and-web-projects]]. Part of [[topics/uhcl-coursework]].
 
 ## Core concepts
 
@@ -22,6 +22,15 @@ Notes from UHCL **ACCT 2301 – Principles of Accounting I**, built around a Cen
 - Reading tips from class: statements show 3 years of data; watch rounding and currency; "net earnings" = net income; 52/53-week fiscal years exist.
 - Key concepts: **historical cost** vs **fair value**, **accrual basis** (cash basis for tax only), **matching concept**, dividends, shareholders (corporations) vs members (LLCs).
 - **Accounting equation**: Assets = Liabilities + Equity. Personal version: assets − liabilities = net equity.
+
+From the textbook's Chapter 1 deck ([[sources/uhcl-syllabi-and-course-files]]):
+- **Four assumptions:** monetary unit, time period, business entity, going concern. **Four principles:** measurement, historical cost, revenue recognition, expense recognition (matching).
+- **Useful information** must be relevant and faithfully represented, helped by comparability, verifiability, timeliness and understandability.
+- **Statement order:** income statement, statement of stockholders' equity, balance sheet, statement of cash flows. Each feeds the next. NetSolutions in November: net income $3,050, retained earnings $1,050, total equity $26,050, cash $5,900 (recomputed).
+- **Ethics:** Enron, HealthSouth, Qwest, Computer Associates and Xerox are the deck's fraud examples. It credits them to failed character and a culture of greed, and says they led to Sarbanes-Oxley and the PCAOB.
+- **Ratio of liabilities to stockholders' equity:** lower means better able to pay creditors, and below 1.0 protects them.
+
+Homework 1 confirms the regulator split: the SEC can enforce rules, while FASB is an independent non-profit with no regulatory authority.
 
 ### Chapter 2: Recording transactions
 - **Double-entry**: every transaction hits at least two accounts and debits = credits.
@@ -68,6 +77,8 @@ Notes from UHCL **ACCT 2301 – Principles of Accounting I**, built around a Cen
 | `3-0 Lecture Notes`, `4-0 Lecture Notes` | Chapter 3 takeaways (adjusting entries, depreciation); Chapter 4 learning objectives only. |
 | `First Spreadsheet Notes` | Merchandiser journal and T-account exercise. |
 | `Types of Accounting Certifications` | List: CPP, CMA, CIA, CISA, CPA. |
+| `FinMan 15e_IE PPT_Ch01.pptx` | Textbook Chapter 1 deck, read 2026-11-01. |
+| `Blackboard Homework 1 - Josh Bayne` (`.docx`, `.pdf`) | SEC and FASB homework with the author's answers, read 2026-11-01. |
 | `ap-ar` | Saved AI Q&A on weekly accounts-payable compliance tasks and building a vendor master file. |
 | `ap-ar files` | Saved AI Q&A proposing an AP folder structure (year/month, naming conventions, retention tiers). |
 

@@ -1,21 +1,22 @@
 ---
 type: topic
 name: "Corporate and personal finance (FINC 3301/4331/4351)"
-updated: 2026-10-28
-sources: 1
-source_pages: ["[[sources/uhcl-finance-notes]]"]
+updated: 2026-11-01
+sources: 2
+source_pages: ["[[sources/uhcl-finance-notes]]", "[[sources/uhcl-syllabi-and-course-files]]"]
 tags: [topic, finance, finc3301, finc4331, finc4351, banking]
 courses: [FINC 3301, FINC 4331, FINC 4351]
-status: ingested-thin
+status: ingested-partial
 ---
 
 # Corporate and Personal Finance
 
-Finance coursework from summer 2023 (personal finance, FINC 3301) and fall 2023 (FINC 4331, FINC 4351), plus a short commercial-lending note. **Most of the finance files in raw-sources are stubs or image-only imports**, so this page is intentionally thin; see Gaps. Related: [[topics/financial-accounting]] and [[topics/managerial-accounting]] for the statements finance builds on, [[topics/economics]] for risk/opportunity-cost foundations, and [[topics/statistics]] for inference. Part of [[topics/uhcl-coursework]].
+Finance coursework from summer 2023 (personal finance, FINC 3301) and fall 2023 (FINC 4331, FINC 4351), plus a short commercial-lending note. **Most of the finance `.md` files are stubs or image-only imports**. The syllabi and two chapter decks, added 2026-11-01, show what the courses covered; see Gaps. Related: [[topics/financial-accounting]] and [[topics/managerial-accounting]] for the statements finance builds on, [[topics/economics]] for risk/opportunity-cost foundations, and [[topics/statistics]] for inference. Part of [[topics/uhcl-coursework]].
 
 ## What the notes actually contain
 
 ### Commercial lending (`Loan-Structuring-Presentation`, Oct 2023)
+This note fits FINC 4331, which covers "the keys to loan structure" (inference from the syllabus).
 - **C&I** = commercial and industrial lending; **EBITDA** is the profit measure commonly used by commercial bankers.
 - Loan types: **lines of credit** (can be seasonal, though usually not) and **term loans**.
 - Investment banks above a certain size stop holding balance sheets and focus almost entirely on raising capital.
@@ -36,12 +37,30 @@ Slide text from Billingsley/Gitman/Joehnk, *Personal Financial Planning* 15e:
 - **Inflation**: real return ≈ nominal − inflation (8% − 3% = 5%), but the **Fisher equation** is exact: (1.08 ÷ 1.03) − 1 = **4.85%**.
 - Other FINC 3301 files: a personal-finance Excel template and a financial-goals worksheet (link/image only).
 
-### Textbook slide decks (Brigham, *Intro to Financial Management*, 14e)
-- `Brigham_IFM_14e_PPT_CH01` (imported June 2023) contains **only its title and timestamps**. Companion decks exist for chapters 2, 4, 5, 6, 8, 9, 11, 12, 13, 15 and 16 (some with `_Chap` variants); these were not read and may be similarly empty.
+### Personal Financial Planning, Chapter 1 (`Billingsley-1_PFP-15.PPTX`)
+- **Financial goals** should be SMART (specific, measurable, attainable, realistic, timely) and stated in money terms. Horizons: short term is the next year, intermediate is 2–5 years, long term is 6 years or more.
+- **Propensity to consume** is the share of each income dollar spent on current needs. It falls as income rises, because basic needs take a smaller share.
+- **Wealth** is everything you own less everything you owe, split into financial assets (cash accounts, securities) and tangible assets (cars, houses, furniture).
+- **Start early:** see the IRA example on [[concepts/time-value-of-money]].
+- **Planners** are paid by commission, fee only, or both — [[sources/uhcl-syllabi-and-course-files]]
+
+### Textbook slide decks (Brigham and Daves, *Intermediate Financial Management*, 14e)
+- **Corrected 2026-11-01:** this page earlier gave the title as *Intro to Financial Management*. The deck's title slide says *Intermediate Financial Management*. Neither FINC syllabus requires this book, so the course behind these decks is unknown.
+- `Brigham_IFM_14e_PPT_CH01.pptx` holds the real Chapter 1 deck; the `.md` of the same name has only a title and timestamps — [[sources/uhcl-syllabi-and-course-files]]
+  - **Business forms:** a proprietorship or partnership is easy to form but has unlimited liability and limited life. A corporation has limited liability, unlimited life and easier fundraising, at the cost of double taxation and filing costs.
+  - **Objective and agency:** management's primary objective is shareholder wealth maximization, meaning the fundamental stock price. The agency problem is managers acting for themselves, and corporate governance helps control it.
+  - **Value:** free cash flow = sales revenues − operating costs − operating taxes − required investments in operating capital. WACC is the average return all investors require. Intrinsic value is expected free cash flows in today's dollars ([[concepts/time-value-of-money]]).
+  - **Cost of money:** production opportunities, time preference, risk and expected inflation, plus Fed policy, budget deficits, business activity and trade balances.
+  - **Markets:** spot and futures, money and capital, primary and secondary. In a primary sale the issuer receives the proceeds; in a secondary sale it does not.
+  - **Securitization:** S&Ls sold mortgage pools to Fannie Mae, which sold shares in them to investors, shifting the risk without removing it. The deck blames the crisis on incentives along that chain: brokers, appraisers, originators, investment banks and rating agencies. When mortgages reset and borrowers defaulted, CDO values fell and many firms failed.
+- Companion decks for chapters 2, 4, 5, 6, 8, 9, 11, 12, 13, 15 and 16 (some with `_Chap` variants) are title-only `.md` files.
 - `Risk and Return` is an **empty file**.
 
 ### Syllabi
-- `FINC-4331-Syllabus-FA23` and `FINC-4351-FA-2023-Syllabus` (imported 2023-08-20) hold only titles; the PDF text is not in the markdown. `FINC-4331-Syllabus-FA23.pdf` also sits in raw-sources. `Syllabus-Day-Notes` (2023-08-23) is a page of ~340 tiny images with no text.
+- **FINC 4331** (Professor Bendeck, Fall 2023) uses the Risk Management Association's Credit Essentials course. It teaches commercial credit: knowing the bank's customer, financial-statement credit analysis, cash-flow analysis and projections, loan structure, loan committees, guarantors, tax returns and global cash flow. The final is the RMA certificate exam, and 80% earns the certificate. The syllabus calls both this course and its prerequisite, FINC 3331, "Business Finance", which may be a slip (inference).
+- **FINC 4351** (Prof. Pavlova-Stout, Fall 2023) is International Finance, using Eiteman, Stonehill and Moffett 16e: foreign-exchange markets and exposure, parity conditions, multinational capital budgeting, and currency derivatives.
+- Files that probably belong to FINC 4331, since they were created on 2023-08-23 and match its opening chapter (inference): `Ch-1-Get-Know-Customer---Lect` and `CEC_Chapter-1_Participant-Man`, where "CEC" probably means Credit Essentials Course. Both hold titles only.
+- The `.md` versions of the two syllabi hold only titles. `Syllabus-Day-Notes` (2023-08-23) is a page of ~340 tiny images with no text.
 
 ## Sources summarized
 
@@ -49,12 +68,16 @@ Slide text from Billingsley/Gitman/Joehnk, *Personal Financial Planning* 15e:
 |---|---|
 | `Loan-Structuring-Presentation` | Lending vocabulary, loan types, DSCR formula. |
 | `Chapter-2_Financial-Goals-Sit`, `Chapter-2_BudgetWorksheet` | Link-only page; budget-worksheet PDF images. |
-| `Brigham_IFM_14e_PPT_CH01` | Empty (title only). Other Brigham decks listed, not read. |
+| `Brigham_IFM_14e_PPT_CH01.pptx` | Full Chapter 1 deck, read 2026-11-01. The `.md` and the other Brigham `.md` files are title-only. |
+| `Billingsley-1_PFP-15.PPTX` | Personal financial planning Chapter 1 deck, read 2026-11-01. |
 | `Risk and Return` | Empty. |
-| `FINC-4331-Syllabus-FA23`, `FINC-4351-FA-2023-Syllabus`, `Syllabus-Day-Notes`, `Syllabus` | Title-only or image-only pages. |
+| `FINC-4331-Syllabus-FA23.pdf`, `FINC-4351-FA-2023-Syllabus.docx` | Full syllabi, read 2026-11-01. |
+| `FINC-4331-Syllabus-FA23`, `FINC-4351-FA-2023-Syllabus` (`.md`), `Syllabus-Day-Notes`, `Syllabus` | Title-only or image-only pages. |
 | `Chapter-2` | Personal-finance lecture slides (50/30/20, ratios, Rule of 72, annuity, Fisher equation). |
 | `Chapter-1`, `Chapter-3` … `Chapter-15` (hyphenated), `Chapter-N-Notes`, `Chapter-1_Chapter-1-Notes`, `Chapter-1_Chapter-1-EOC-Probl`, `Chapter-1_Currency-Percent-Ch`, `Chapter-1_ch-01-PPT(2)-(2)`, `ch-02-PPT`, `ch-03-PPT`, `ch-05-PPT`, `Ch-1-Get-Know-Customer---Lect`, `CEC_Chapter-1_Participant-Man` | OneNote shells with titles and timestamps only (course ownership unverified; dates span June–Sept 2023, so they may belong to FINC 3301, ACCT 3341 or FINC 4331). |
 | `Chapter-2_Personal-Finance-Ex`, `Chapter-2_FinancialGoalsWorks` | Link/image-only (Excel template, goals worksheet). |
 
 ## Gaps / follow-ups
-- Re-import the Brigham decks and syllabi with text extraction (OCR or direct PDF/PPT conversion); right now the finance material has almost no usable text.
+- There are almost no notes of the author's own for FINC 4331 and 4351, so the page shows what the courses planned to teach, not what was learned.
+- The later Brigham chapters and the RMA workbook are not in the vault as readable text. Original decks would be needed.
+- Which course used the Brigham book. FINC 3331 is a candidate (inference), but it has no files of its own in the vault.
