@@ -11,14 +11,14 @@
             "id": "f4cdbf6ee876a6aa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "wiki/log.md",
-                "bFile": "wiki/log.md",
-                "aRef": ""
+                "file": "raw-sources/11-01-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: log  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "11-01-2026"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "f4cdbf6ee876a6aa",
   "lastOpenFiles": [
+    "raw-sources/11-01-2026.md",
     "wiki/sources/uhcl-it-notes.md",
     "wiki/sources/uhcl-quantitative-notes.md",
     "wiki/sources/uhcl-finance-notes.md",
@@ -243,7 +244,6 @@
     "Inbox/test.md",
     "Inbox/test (165759).md",
     "Inbox/test (165751).md",
-    "raw-sources/10-31-2026.md",
     "wiki/index.md.tmp.636451.0a86c735104a",
     "wiki/index.md.tmp.636451.01d324339c6a",
     "wiki/lint-report.md.tmp.636451.02bb17c35429",
