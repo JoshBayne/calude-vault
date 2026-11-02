@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ae43d88e5ac60ac2",
+        "id": "58267ef9b8e813c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f4cdbf6ee876a6aa",
+            "id": "68cc3d248e748fd1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "wiki/log.md",
-                "bFile": "wiki/log.md",
-                "aRef": ""
+                "file": "raw-sources/11-01-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: log  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "11-01-2026"
             }
           }
         ]
@@ -210,14 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4cdbf6ee876a6aa",
+  "active": "68cc3d248e748fd1",
   "lastOpenFiles": [
+    "wiki/sources/phone-inbox-notes-2026-10-31.md",
+    "raw-sources/11-01-2026.md",
     "wiki/sources/uhcl-it-notes.md",
     "wiki/sources/uhcl-quantitative-notes.md",
     "wiki/sources/uhcl-finance-notes.md",
     "wiki/sources/wiki-build-and-restructure-chat-summary.md",
     "wiki/sources/journal-2026-10-30-and-31.md",
-    "wiki/sources/phone-inbox-notes-2026-10-31.md",
     "wiki/log.md",
     "CLAUDE.md",
     "file:C:/Users/joshb/Downloads/SKILL.md",
@@ -243,7 +244,6 @@
     "Inbox/test.md",
     "Inbox/test (165759).md",
     "Inbox/test (165751).md",
-    "raw-sources/10-31-2026.md",
     "wiki/index.md.tmp.636451.0a86c735104a",
     "wiki/index.md.tmp.636451.01d324339c6a",
     "wiki/lint-report.md.tmp.636451.02bb17c35429",
