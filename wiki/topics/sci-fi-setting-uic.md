@@ -1,8 +1,8 @@
 ---
 type: topic
 name: "Sci-fi setting: the United Interstellar Coalition"
-updated: 2026-10-28
-sources: 1
+updated: 2026-11-01
+sources: 2
 source_pages: ["[[sources/sci-fi-setting-notes]]"]
 tags: [topic, ttrpg, worldbuilding, sci-fi, uic]
 status: ingested-partial
@@ -25,6 +25,9 @@ A separate campaign/story setting from the fantasy world in [[topics/arian-and-b
 - **Dr. Harrison Nguyen**: a kind, honest government researcher on Chobo who built systems to help map the gates, culminating in the AI **AI-ex** (the file `AI-ex` is ink only). He came to see the AI as a daughter; when ordered to hand it to the government he chose to run, using **Steph** to get forged papers for another world's visa terminals and a captain who rents out a ship. He now depends on **Gat** to get him safely off-world.
 - **Story beat ideas**: open with a flashback of a boy told the stars could be his; the protagonist is a driven future space captain working at a motel near a starport (a Gattaca-style figure who studies piloting in the downtime). One night a cagey man arrives with a young child; when the protagonist threatens to call authorities over suspected trafficking, the man reveals he is a government researcher disgusted that the government uses AIs as slave labor.
 - **Scenes**: *First Dinner*: Alex cooks for the ship but, using only the most literal definitions of foods and techniques, produces technically immaculate but wrong-tasting food. *First Flight*: Gat flies perfectly by the book; the captain says flying is as much art as science, and Gat asks to be taught.
+
+## Possibly related story notes
+Old phone notes on [[topics/story-ideas]] (`Way Gates`, `King in Crimson`, `Structural integrity failing`) echo the gates and the Crimson World. None names this setting, so the link is inference — [[sources/phone-old-notes-batch-2026-10-31]]
 
 ## Sources summarized
 

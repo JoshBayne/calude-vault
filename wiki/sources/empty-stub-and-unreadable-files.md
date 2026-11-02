@@ -33,9 +33,10 @@ File reads and size checks.
 
 ## Limitations and caveats
 - To read the binary files, give the PDF/DOCX text (export to text or Markdown) or run an OCR step on the computer.
+- **Update 2026-11-01 (lint):** this section describes the vault connector. A local session on the vault folder can extract text directly, and a size check found text in 13 of the 17 files: 7 PDFs, all 3 DOCX and all 3 PPTX. Four PDFs returned almost nothing and look like scans that need OCR: `ECON2302 - Spring 2022 Syllabus.pdf`, `Managerial Accounting – MBA 6035 … Syllabus.pdf`, `syllabus 1324-01 sp22.pdf` and `Z-chart-formal.pdf`. The 13 readable files were then ingested the same day: [[sources/uhcl-syllabi-and-course-files]]. Both `.save` files are plain text starting with the same characters, so they look like an encoded app format rather than ink (inference); they were not decoded.
 
 ## Entities and concepts
 None.
 
 ## Related sources and topics
-- [[sources/uhcl-finance-notes]], [[sources/delrun-campaign-notes]], [[sources/business-and-work-notes]]
+- [[sources/uhcl-finance-notes]], [[sources/delrun-campaign-notes]], [[sources/business-and-work-notes]], [[sources/uhcl-syllabi-and-course-files]]

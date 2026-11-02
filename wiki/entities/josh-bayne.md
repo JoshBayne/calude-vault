@@ -1,8 +1,8 @@
 ---
 type: entity
 name: "Josh Bayne"
-updated: 2026-10-31
-sources: 6
+updated: 2026-11-01
+sources: 8
 aliases: ["Josh", "the author", "the vault owner"]
 tags: [entity, person, private]
 privacy: private
@@ -20,14 +20,16 @@ The owner of the vault and author of nearly all raw notes. This page gathers fac
 - Runs the tabletop campaign "Lost Mines of Delrun" as game master and built the sci-fi setting — [[topics/dnd-campaigns-and-worldbuilding]]
 - Hobbies: guitar, vinyl, Gundam dioramas, 3D printing — [[topics/personal-and-hobbies]]
 - Writes film and video ideas starring his wife, keeps tiered gift and MTG wishlists, and is setting up phone-to-vault note capture — [[topics/film-and-video-ideas]], [[topics/personal-and-hobbies]], [[topics/phone-capture-workflow]]
+- Keeps old phone notes with unfinished sci-fi and horror fiction, video-essay titles and memes — [[topics/story-ideas]], [[topics/film-and-video-ideas]], [[sources/phone-old-notes-batch-2026-10-31]]
+- Is planning a series of long video essays on TV endings and stage musicals, with five frameworks done and no scripts — [[topics/video-essay-series]]
 - Builds the tooling around this vault: Claude Desktop access over MCP and the Remote Vault Clipper — [[topics/obsidian-mcp-integration]], [[topics/remote-vault-clipper]]
 
 ## Relationships
-- Journals: [[topics/daily-notes-2022]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]]
+- Journals: [[topics/daily-notes-2022]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/journal-2026-11-01]]
 - People around him: [[topics/people-private]]
 
 ## Open questions
 - The marriage date, what URNET does, and the SBA loan outcome are not recorded.
 
 ## Sources
-- [[sources/personal-private-notes]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/phone-inbox-notes-2026-10-31]], [[sources/business-and-work-notes]]
+- [[sources/personal-private-notes]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/phone-inbox-notes-2026-10-31]], [[sources/phone-old-notes-batch-2026-10-31]], [[sources/journal-2026-11-01]], [[sources/business-and-work-notes]], [[sources/video-essay-series-plans]]

@@ -25,6 +25,7 @@ Worked journal entries, T-accounts, trial balances, numeric exercises; numbers w
 - **Data-quality flags**: the NetSolutions trial balance in `2-4 Trial Balance` sums to 42,690 in credits against a stated 42,600 (likely Fees Earned 16,430 vs 16,340); `First Spreadsheet Notes` shows an Inventory credit of 8,750 against a 4,375 journal entry; `2-3` is an unfinished stub.
 - Image-only or link-only files: `Lean-Accounting-Notes`, `Ch-25/26/27`, most `Chapter-N-PowerPoint` shells, and class-exercise PDFs. `Homework-2---Questions(2)` (~120 KB) not summarized.
 - `ap-ar` and `ap-ar files` are saved AI Q&A, not coursework; their advice is not verified.
+- **Update 2026-11-01:** `FinMan 15e_IE PPT_Ch01.pptx` and `Blackboard Homework 1` were read: [[sources/uhcl-syllabi-and-course-files]]. The deck covers November only, so it does not settle the December trial-balance question above. The `Managerial Accounting – MBA 6035 … Syllabus` PDF is a scan and is still unread.
 
 ## Entities and concepts
 - [[concepts/error-detection-and-controls]] — trial-balance error tests and AP controls

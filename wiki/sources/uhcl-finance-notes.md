@@ -23,6 +23,7 @@ Slide text and short worked numbers; no data tables beyond those.
 - Brigham decks (at least `CH01` and `Risk and Return`), both FINC syllabi and `Syllabus-Day-Notes` contain no usable text (title/timestamps or images only).
 - Hyphenated `Chapter-N` files are OneNote shells; their course ownership (FINC 3301, ACCT 3341 or FINC 4331) is unverified. `Billingsley-1_PFP-15.PPTX` and `FinMan 15e_IE PPT_Ch01.pptx` are binary files not read.
 - `MKTG 3301` syllabus PDF is present in raw-sources but unread; no marketing notes are in the wiki.
+- **Update 2026-11-01:** the PPTX, PDF and DOCX versions of `Brigham_IFM_14e_PPT_CH01`, `Billingsley-1_PFP-15`, both FINC syllabi and the MKTG 3301 syllabus were read: [[sources/uhcl-syllabi-and-course-files]]. The two limitations above describe the `.md` files and the connector. `FinMan 15e_IE PPT_Ch01.pptx` turned out to be an accounting deck, not finance. The syllabus suggests `Loan-Structuring-Presentation`, `Ch-1-Get-Know-Customer---Lect` and `CEC_Chapter-1_Participant-Man` belong to FINC 4331 (inference).
 
 ## Entities and concepts
 - [[concepts/time-value-of-money]] — Rule of 72, annuity, Fisher equation

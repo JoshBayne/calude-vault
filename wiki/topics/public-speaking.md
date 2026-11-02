@@ -1,9 +1,9 @@
 ---
 type: topic
 name: "Public speaking (COMM 1315)"
-updated: 2026-10-28
-sources: 1
-source_pages: ["[[sources/uhcl-communication-and-misc-notes]]"]
+updated: 2026-11-01
+sources: 2
+source_pages: ["[[sources/uhcl-communication-and-misc-notes]]", "[[sources/uhcl-syllabi-and-course-files]]"]
 tags: [topic, public-speaking, comm1315]
 courses: [COMM 1315]
 status: ingested-partial
@@ -11,7 +11,13 @@ status: ingested-partial
 
 # Public Speaking (COMM 1315)
 
-Notes from UHCL **COMM 1315 – Public Speaking** (Spring 2022). Part of [[topics/uhcl-coursework]]. Topic ideas for speech 1 overlap with hobbies in [[topics/personal-and-hobbies]] and [[topics/dnd-campaigns-and-worldbuilding]] (TTRPGs).
+Notes from UHCL **COMM 1315 – Public Speaking** (Spring 2022), taught by Dr. Andrea Baldwin from Fassett and Nainby, *Empowering Public Speaking* (2021). Part of [[topics/uhcl-coursework]]. Topic ideas for speech 1 overlap with hobbies in [[topics/personal-and-hobbies]] and [[topics/dnd-campaigns-and-worldbuilding]] (TTRPGs).
+
+## Course structure (syllabus)
+- **Grading:** two exams 20%, three speeches 50% (100, 150 and 250 points), a 3–5 page communication analysis paper 15%, other assignments 15% — [[sources/uhcl-syllabi-and-course-files]]
+- **Format:** weeks 1 and 2 were online and asynchronous because of COVID, then face to face.
+- **Chapter themes:** each chapter is a "Public Speaking is…" claim. The ones with notes here are relational (2), responsive (3), specific to time, place and purpose (4), impassioned (9), accountable (10) and evolving (11).
+- **Chapters without notes:** constitutive (1), pedagogical (5), structured (6), informed (7), performance (8) and empowering (12). Speech 2 also has no notes.
 
 ## Core concepts
 
@@ -59,8 +65,8 @@ Notes from UHCL **COMM 1315 – Public Speaking** (Spring 2022). Part of [[topic
 | `Speech 1` | Assignment rules, reflection questions, topic list. |
 | `Speech 3` | Assignment constraints and thesis idea. |
 | `Chapter 7-8`, `Chapter 1` | Not public speaking (economics title stub and quantitative-analysis note). |
-| `Cap Paper` | Two-line outline for a "how my thinking changed" paper (reality TV and musicals); course not stated. |
-| `Public Speaking Syllabus Spring 22.pdf` | PDF; not read. |
+| `Cap Paper` | Short outline for a "how my thinking changed" paper (reality TV and musicals). The note names no course, but the syllabus schedules a "CAP PAPER", so it is probably this course's analysis paper (inference). |
+| `Public Speaking Syllabus Spring 22` (`.docx`, `.pdf`) | Full syllabus, read 2026-11-01. The two copies match. |
 
 ## Related: ARTS 1304 (art appreciation)
 Files: `Fall-2023-ARTS-1304` (syllabus PDF embedded as images, no text) and `Gardner's---Ch.-14-15.pdf.md` (~190 KB extraction of a textbook chapter set, plus 50 page images). The Gardner's file is summarized in [[topics/art-history-late-medieval-europe]] (added 2026-10-29); the course syllabus has no text.

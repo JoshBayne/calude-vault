@@ -95,3 +95,4 @@ Architected essay structure prioritizing consequences claim and neurodivergence 
 **Skeptic:** And with defenders getting brief acknowledgment only, the essay reads as more confident and more argued than the RENT piece — which is the right register given how much clearer the “disproportionately mild consequences” evidence actually is. I still want at least a sentence per claim engaging the strongest counterargument, though — brief isn’t the same as absent, or the essay stops being a video essay and becomes a rant with citations.
 
 **Editor:** Agreed. Building it now — this one runs leaner on steelman real estate, so more room for the actual argument and close reading.
+

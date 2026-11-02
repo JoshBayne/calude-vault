@@ -12,7 +12,7 @@ privacy: private
 # Phone notes pushed 2026-10-31
 
 ## Summary
-Six short notes written in Samsung Notes between 17:52 and 17:56 on 2026-10-31 (frontmatter `source: samsung-notes`). Git history shows each was added to `Inbox/` "from phone" and later sits in `raw-sources/`. They are the first real content sent through the phone route described in [[topics/phone-capture-workflow]], after several "test" notes.
+Six short notes shared from Samsung Notes between 17:52 and 17:56 on 2026-10-31 (frontmatter `source: samsung-notes`). The `created` field records the share time, so writing dates are unknown ([[topics/phone-capture-workflow]]). Git history shows each was added to `Inbox/` "from phone" and later sits in `raw-sources/`. They are the first real content sent through the phone route described in [[topics/phone-capture-workflow]], after several "test" notes.
 
 ## Key points
 - **`josh-gift-ideas`** — gifts for himself in tiers.
@@ -34,7 +34,7 @@ Read in full; each is a few lines. Provenance from frontmatter and from `git log
 
 ## Entities and concepts
 - [[entities/josh-bayne]] — author; his gift and card wishes
-- [[entities/sophia-bayne]] — central character in two film ideas
+- [[entities/sophia-bayne]] — named in all three film ideas
 
 ## Related sources and topics
 - [[topics/personal-and-hobbies]] — earlier wishlists, Gundam, 3D printing, guitar

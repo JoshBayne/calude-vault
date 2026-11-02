@@ -45,7 +45,7 @@ Setting reference for the fantasy campaign summarized in [[topics/dnd-campaigns-
 
 ## Planning notes
 - **`Vampire adventure`**: scene prep for the Spires. Struck-through text (resolved scenes) covers Disciples of Null sensing the invisible Arturas, Golgum refusing audiences except via the Council (referring the party to Bishop Vlodimire or Sister Nora), a zero-sum bargain over cursed earth, and charm/dominate combat. Live text: if the party beats the four disciples and shows their symbol to Medrash, he explains a dark cult of **Null, sovereign of darkness and emptiness**, and that the casket carvings are depictions of the last "**Ceremony of the Eclipse**"; guards are now hunting the party after they were seen carrying a body at night.
-- **`Possible Advnture Hooks`** (sic): Aronoc is powered by a lead-acid battery whose "acid" is a giant gelatinous cube; an unmanned ship in Port of Biscayne; a potion-maker who really wants the party's bodies; a lord whose home Arturas burned seeks revenge; nobles want to silence Taegan; an escalating underground fight club (Ginny); trouble at a fairy hollow (Petals); and Elaineke's father, a Tabaxi, appears.
+- **`Possible Advnture Hooks`** (sic): Aronoc is powered by a lead-acid battery whose "acid" is a giant gelatinous cube; an unmanned ship in Port of Biscayne; a potion-maker who really wants the party's bodies; a lord whose home Arturas burned seeks revenge; nobles want to silence Taegan; an escalating underground fight club (Ginny); trouble at a fairy hollow (Petals); and Elaineki's father, a Tabaxi, appears (this note spells the name "Elaineke").
 - **`Conditions`**: reference copy of the 5e conditions (blinded through unconscious, plus the six exhaustion levels).
 
 ## Sources summarized

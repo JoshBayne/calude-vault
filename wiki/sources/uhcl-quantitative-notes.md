@@ -23,6 +23,7 @@ Worked numeric examples from slides, OCR'd from images; the author's own recompu
 ## Limitations and caveats
 - **Errors in the source notes** (documented on the math topic page): `Chapter 1.6` break-even writes fixed cost as 3600 and 36000 in different lines (answers x > 120 and P(200) = 24,000 fit 36,000; 3,600 would give x > 12 and 56,400; internally inconsistent, textbook not checked); minor slips in `Chapter 1.1`, `1.6` (supply equation +20 vs +30) and `2.1`.
 - `Chapter 1.4 Graphing Utilities` is empty; `1324-final-exam-review-proble` and the syllabus PDFs were not read.
+- **Update 2026-11-01:** the final-review PDF was read for its topics ([[sources/uhcl-syllabi-and-course-files]]). `syllabus 1324-01 sp22.pdf` and `Z-chart-formal.pdf` are scans and are still unread.
 - The two retirement and policy-survey hypothesis examples were set up in slides without visible answers; the z-values are my computation.
 
 ## Entities and concepts

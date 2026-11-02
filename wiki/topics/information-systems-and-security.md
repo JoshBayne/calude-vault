@@ -38,7 +38,7 @@ Management information systems (MIS) concepts and the beginnings of a security m
 | `Module 2 - Secure Info Systems` | Short intro to why IS security matters and the threat landscape. |
 | `Domain-1-Security-Principles` | Stub file (title and timestamps only). |
 | `Domain-1-Security-Principles_` | Variant file; **not read**. |
-| `Lockdown Browser UHCL.pdf` | PDF in raw sources; not read (likely exam-software instructions). |
+| `Lockdown Browser UHCL.pdf` | Read 2026-11-01: exam-software instructions, not security coursework. See [[sources/uhcl-syllabi-and-course-files]]. |
 
 ## Gaps
 - Module 2 stops early; security principles (CIA triad etc.) have not been captured.

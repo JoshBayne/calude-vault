@@ -40,3 +40,4 @@ Personal experience plus statements the author attributes to Anthropic ("Anthrop
 ## Related sources and topics
 - [[sources/wiki-build-and-restructure-chat-summary]] — this wiki's own `CLAUDE.md` contract and skills, the pattern habit 21 recommends
 - [[sources/tiktok-safe-zones-guide-zeely]] — clipped the same day
+- [[sources/claude-code-token-saving-guide]] — a later clip on the same subject; differs on how often to reset a session
