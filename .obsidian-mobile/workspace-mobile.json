@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "120e7887916d1dd2",
+        "id": "458aedfbd25bca9f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc239fa9b20dfe5c",
+            "id": "98d76e1cb6821b2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw-sources/2026-11-06.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-11-06"
             }
           }
         ]
@@ -113,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "raw-sources/2026-11-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,6 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "raw-sources/2026-11-06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,6 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "raw-sources/2026-11-06.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,6 +173,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc239fa9b20dfe5c",
-  "lastOpenFiles": []
+  "active": "98d76e1cb6821b2e",
+  "lastOpenFiles": [
+    "raw-sources/2026-11-06.md",
+    "Untitled.md"
+  ]
 }
