@@ -1,6 +1,6 @@
 # Wiki index
 
-> Updated: 2026-11-01 | Pages: 85 (counted excluding overview.md, index.md, log.md and lint-report.md)
+> Updated: 2026-11-06 | Pages: 90 (counted excluding overview.md, index.md, log.md and lint-report.md)
 
 Start with [[overview]].
 
@@ -15,11 +15,14 @@ Start with [[overview]].
 - [[sources/gardners-art-history-ch14-15]] — Gardner's art-history chapters 14–15 (OCR page images)
 - [[sources/journal-2026-10-30-and-31]] — 2026-10-30 and 10-31 journal: investor and payroll wait, vault move, phone-to-git capture trouble (private)
 - [[sources/journal-2026-10-29]] — 2026-10-29 journal entry: dog, Sophia's TikTok streaming, work and funding worries, health plans (private)
-- [[sources/journal-2026-11-01]] — 2026-11-01 journal: Halloween party, low mood, pay worry, moving items between houses (private)
+- [[sources/journal-2026-11-01]] — 2026-11-01 journal: Halloween party, low mood, pay worry, moving items between houses; evening update on Claude work and Mealie (private)
+- [[sources/journal-2026-11-02]] — 2026-11-02 journal: bloodwork, Sophia's allergist visit, Arcus call, Taiwan devs (private)
+- [[sources/journal-2026-11-06]] — 2026-11-06 journal: Doug's $500k arrives, bills paid, heart-health worry, TikTok violation, website builder, phone GitSync (private)
 - [[sources/personal-notes]] — journal entries, weekly planning pages and hobby logs (private)
 - [[sources/personal-private-notes]] — full private journal, people pages, wishlists and lists (private)
 - [[sources/phone-inbox-notes-2026-10-31]] — six phone notes: gift list, MTG artists and cards, film ideas, a book title (private)
 - [[sources/phone-old-notes-batch-2026-10-31]] — 17 old phone files: story ideas, video and meme ideas, Sophia gift list, art list, a dream (private)
+- [[sources/reading-list-by-level]] — phone note: 43 books in eight levels, from a YouTube video; author-name errors flagged
 - [[sources/remote-vault-clipper-chat-summary]] — chat write-up: building the Remote Vault Clipper extension and fixing the SWAG proxy route
 - [[sources/sci-fi-setting-notes]] — United Interstellar Coalition lore, story beats and ink-only pages
 - [[sources/smpp-and-sharepoint-ai-transcripts]] — full read of the pricing, lightbox and investor-portal AI chats
@@ -48,7 +51,7 @@ Start with [[overview]].
 - [[entities/sophias-magical-princess-party]] — children's character-entertainment company behind the website notes
 - [[entities/the-clan]] — network of independent gangs bound by a protection pact
 - [[entities/united-interstellar-coalition]] — 500-year-old governing body of humanity in the sci-fi setting
-- [[entities/urnet]] — Josh's current employer, the company of Josh's father; investor funding pending (private)
+- [[entities/urnet]] — Josh's current employer, the company of Josh's father; Doug Trauber's $500k arrived 2026-11-06, Kapil pending (private)
 - [[entities/wave-echo-cave]] — lost mine east of Delrun and the Delrundian Pact
 
 ## Concepts
@@ -89,12 +92,14 @@ Start with [[overview]].
 - [[topics/phone-capture-workflow]] — pushing Android notes to the vault by git; status and open questions (private)
 - [[topics/princess-party-business-smpp]] — website plan, design notes and AI build requests
 - [[topics/public-speaking]] — COMM 1315 terms and speech assignments
+- [[topics/reading-list]] — the vault's book notes: levelled 43-book list and two single titles
 - [[topics/remote-vault-clipper]] — fork of Obsidian Web Clipper that saves clips to this vault through the Local REST API and SWAG
 - [[topics/sci-fi-setting-uic]] — UIC, The Clan, the Net and the AI story
 - [[topics/statistics]] — DSCI 3321/3331 inference and decision analysis
 - [[topics/story-ideas]] — unfinished fiction and premises: *Structural integrity failing*, *Cult*, *Way Gates* and others
 - [[topics/uhcl-coursework]] — course map and unassigned notes
 - [[topics/video-essay-series]] — five planned essays on TV endings and musicals, with conflicts and check lists (private)
+- [[topics/website-builder-project]] — website builder from Sophia's site, to sell; copy-protection question open (private)
 - [[topics/work-and-web-projects]] — saved Q&A on messaging, SharePoint, AP and scripting
 
 ## Queries

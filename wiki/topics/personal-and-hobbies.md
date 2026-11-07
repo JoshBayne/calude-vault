@@ -1,7 +1,7 @@
 ---
 type: topic
 name: "Personal and hobbies"
-updated: 2026-11-01
+updated: 2026-11-06
 sources: 3
 source_pages: ["[[sources/personal-notes]]"]
 tags: [topic, hobbies, personal, music, 3d-printing]
@@ -41,6 +41,7 @@ A checklist of skill levels 0–6. **Level 0** (all checked): hold guitar and pi
 ## Art, reading and dreams (old phone notes)
 - `Art I like`: six works, listed without artists: *The Bat Woman* (1890), *The Head of Medusa* (1892), *Abbey in the Oakwood*, *The Fallen Angel*, *Stanczyk*, *Hypnosis* (1904). Tentative attributions are on the source page — [[sources/phone-old-notes-batch-2026-10-31]]
 - `Book recommendation from Seth`: "He who fights with monsters" — [[sources/phone-old-notes-batch-2026-10-31]]
+- `Books by reading level`: a 43-book list in eight levels, from a YouTube video — [[topics/reading-list]], [[sources/reading-list-by-level]]
 - `1-29-24 dream`: a dream log with an orangutan in the walls, a three-stage competition and a family-history fragment that the author marks as impossible — [[sources/phone-old-notes-batch-2026-10-31]]
 - `Sophia Gift Ideas`: a long Christmas-style list; see [[entities/sophia-bayne]] — [[sources/phone-old-notes-batch-2026-10-31]]
 

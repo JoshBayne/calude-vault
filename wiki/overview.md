@@ -1,20 +1,20 @@
 ---
 type: overview
-updated: 2026-11-01
+updated: 2026-11-06
 ---
 
 # Wiki overview
 
 ## Purpose and scope
-A personal knowledge wiki built from the notes in `raw-sources/`: about 460 Markdown notes (plus PDFs, PPTX/DOCX files and about 15,800 images in `raw-sources/assets/`) from university coursework, a small-business website project, saved AI-assistant work conversations, two tabletop-RPG settings, a journal (2021–2022 and four 2026 entries), hobby logs, and write-ups of the owner's Obsidian/Claude tooling projects, three clipped articles and plans for a video-essay series. Out of scope: anything not in those notes; no outside research has been added. Many source files are empty shells or image-only, so coverage is uneven (see Open questions).
+A personal knowledge wiki built from the notes in `raw-sources/`: about 460 Markdown notes (plus PDFs, PPTX/DOCX files and about 15,800 images in `raw-sources/assets/`) from university coursework, a small-business website project, saved AI-assistant work conversations, two tabletop-RPG settings, a journal (2021–2022 and six 2026 entries), hobby logs, and write-ups of the owner's Obsidian/Claude tooling projects, three clipped articles, plans for a video-essay series and a levelled reading list. Out of scope: anything not in those notes; no outside research has been added. Many source files are empty shells or image-only, so coverage is uneven (see Open questions).
 
 ## Map of the knowledge
 - **Coursework** ([[topics/uhcl-coursework]]): business-school courses, grouped by subject. Economics ([[topics/economics]], [[topics/energy-and-environmental-economics]]), accounting ([[topics/financial-accounting]], [[topics/managerial-accounting]], [[topics/intermediate-accounting]]), quantitative methods ([[topics/statistics]], [[topics/math-1324-business-math]]), finance ([[topics/corporate-finance]]), law ([[topics/business-law]]), IT ([[topics/networking]], [[topics/information-systems-and-security]]) and communication ([[topics/public-speaking]]).
-- **Work and business**: [[topics/princess-party-business-smpp]] and [[topics/work-and-web-projects]].
+- **Work and business**: [[topics/princess-party-business-smpp]], [[topics/work-and-web-projects]] and [[topics/website-builder-project]] (new 2026-11-06, built from Sophia's site).
 - **Games and worldbuilding**: [[topics/dnd-campaigns-and-worldbuilding]], with the fantasy setting in [[topics/arian-and-belotria-gazetteer]] and the sci-fi setting in [[topics/sci-fi-setting-uic]].
-- **Tooling and AI workflow**: [[topics/obsidian-mcp-integration]] (Claude Desktop reading this vault over SSH), [[topics/remote-vault-clipper]] (browser clipper writing into it), [[concepts/llm-token-economics]] (two clipped guides to Claude limits) and [[concepts/tiktok-safe-zones]] (clipped vendor guide); [[topics/phone-capture-workflow]] covers pushing Android notes into the vault by git.
-- **Personal**: [[topics/film-and-video-ideas]], [[topics/story-ideas]] and [[topics/video-essay-series]] (creative projects), [[entities/josh-bayne]] (owner profile), [[topics/daily-notes-2022]], [[topics/personal-and-hobbies]] and [[topics/people-private]] (private; included with owner approval on 2026-10-29), with [[entities/sophia-bayne]], [[entities/bayne-homeworks]] (store closed around 2022) and [[entities/urnet]] (current employer, per the 2026 journal).
-- **Evidence layer**: 29 source pages under `sources/` record provenance, limitations and flagged errors for each note group.
+- **Tooling and AI workflow**: [[topics/obsidian-mcp-integration]] (Claude Desktop reading this vault over SSH), [[topics/remote-vault-clipper]] (browser clipper writing into it), [[concepts/llm-token-economics]] (two clipped guides to Claude limits) and [[concepts/tiktok-safe-zones]] (clipped vendor guide); [[topics/phone-capture-workflow]] covers pushing Android notes into the vault by git, and since 2026-11-06 the Obsidian mobile app synced by GitSync.
+- **Personal**: [[topics/film-and-video-ideas]], [[topics/story-ideas]] and [[topics/video-essay-series]] (creative projects), [[topics/reading-list]], [[entities/josh-bayne]] (owner profile), [[topics/daily-notes-2022]], [[topics/personal-and-hobbies]] and [[topics/people-private]] (private; included with owner approval on 2026-10-29), with [[entities/sophia-bayne]], [[entities/bayne-homeworks]] (store closed around 2022) and [[entities/urnet]] (current employer, per the 2026 journal).
+- **Evidence layer**: 32 source pages under `sources/` record provenance, limitations and flagged errors for each note group.
 
 ## Current synthesis
 - The same few ideas recur across all domains: trade-offs under scarcity ([[concepts/opportunity-cost]], [[concepts/decision-analysis-and-regret]]), cost and profit logic ([[concepts/break-even-and-profit-functions]], [[concepts/time-value-of-money]]), pricing power ([[concepts/price-elasticity-and-total-revenue]], [[concepts/market-power-and-cartels]]), market failure ([[concepts/externalities-and-public-goods]]) and checking evidence ([[concepts/statistical-inference]], [[concepts/error-detection-and-controls]]). The links, and which are inference, are collected in [[topics/cross-domain-connections]].

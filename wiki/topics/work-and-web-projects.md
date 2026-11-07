@@ -1,7 +1,7 @@
 ---
 type: topic
 name: "Work and web projects"
-updated: 2026-11-01
+updated: 2026-11-06
 sources: 2
 source_pages: ["[[sources/business-and-work-notes]]", "[[sources/smpp-and-sharepoint-ai-transcripts]]"]
 tags: [topic, work, it, automation, sharepoint, compliance]
@@ -36,6 +36,9 @@ Saved AI-assistant conversations and short tool notes related to running a small
 
 ### Tools list
 - `Programs-to-reinstall` (2025-02-28): Orcaslicer, Bleachbit, Topaz Photo AI, Guitar Pro 8, TabStop, Affinity, Calibre, Obsidian(?), Mullvad, SuperDisplay, "HumbleBundle Photo Tools???", Python, ffmpeg, Ruby.
+
+### Website builder (2026-11-06)
+- A new project from the journal, not a saved transcript: a website builder built with AI help from Sophia's website, to be sold. Details and open questions: [[topics/website-builder-project]] — [[sources/journal-2026-11-06]]
 
 ## Sources summarized
 

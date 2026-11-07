@@ -1,8 +1,8 @@
 ---
 type: topic
 name: "People (private)"
-updated: 2026-11-01
-sources: 2
+updated: 2026-11-06
+sources: 4
 source_pages: ["[[sources/personal-private-notes]]"]
 tags: [topic, people, private]
 privacy: private
@@ -19,6 +19,8 @@ All content is the author's own view, from his notes. Not verified.
 - **Parents**: lunch on 2022-01-06 was awkward after talk about politics. Mom lent a card for tuition ($3,991, 2022-01-14). Dad borrowed the laptop on 2022-01-15 weekend.
 - **Others named**: Chris Bergoch (film writer; Sophia worried her father might think she had slept with him, 2022-01-06), Donna Harrison (needs a mini PC, 2022-02-06; the plan is an i5 with upgradable RAM and SSD).
 - **Named 2026-11-01**: Livi and Cris (hosted the 2026-10-31 Halloween party), Nicole (Sophia's school friend) and Alex (director of the *Heathers* production Sophia was in). Alexey comes up over pay at work; role not stated — [[sources/journal-2026-11-01]]
+- **Named 2026-11-06 (work, investors)**: Steve Trauber (lead investor) and his brother Doug Trauber (owner confirmed the relation on 2026-11-06); Kapil (another investor, to wire after Steve's part); Randy (signature already on the final documents; role not stated). Alexey is listed with the Taiwan devs as owed past-due pay, so probably a developer or contractor (inference). See [[entities/urnet]] — [[sources/journal-2026-11-06]]
+- **Pets**: the dog Cosmo (2026-10-29); spelled "Cosmos" on 2026-11-01. Probably the same dog (inference) — [[sources/journal-2026-11-01]]
 
 ## Tensions and gaps
 - Cady and Will: the notes mix friendship, work and a sexual claim. One-sided.

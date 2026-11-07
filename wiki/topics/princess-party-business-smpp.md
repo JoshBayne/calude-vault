@@ -1,7 +1,7 @@
 ---
 type: topic
 name: "Princess party business website (SMPP)"
-updated: 2026-10-28
+updated: 2026-11-06
 sources: 1
 source_pages: ["[[sources/business-and-work-notes]]"]
 tags: [topic, business, website, smpp, princess-party]
@@ -18,6 +18,11 @@ Planning notes for a website for a **children's character-entertainment company*
 - **Contact**, **FAQ** (pre-answer common questions), **Pricing** (varied cards with price brackets; higher-priced packages with face painting or small gifts).
 - **Characters** (`Characters`): index linking to bios/galleries for each character page: Tinker Fairy, Arabian Princess, Latina Princess, Bayou Princess, Snow White, Sleeping Beauty, Scottish Princess, Sailor Prince, Cinderella (and a movie-dress variant), Little Mermaid (and human form), Prince Charming, Rapunzel, Polynesian Princess, Beauty Princess, Snow Princess, Snow Queen.
 - **Cast Page**: list of working team members with individual pages for experience/bios; a popup-card-with-dimmed-background pattern from a competitor's site is the inspiration.
+
+## Later work (2026 journal)
+- 2026-11-01: while Sophia was out at a gig, Josh used Claude to make "her website" "slightly more efficient" — [[sources/journal-2026-11-01]]
+- 2026-11-06: "her website" is the starting codebase for a website builder he plans to sell — [[topics/website-builder-project]]
+- That "her website" is this site is probable but not stated in either note.
 
 ## Design notes
 - **General Design Ideas**: wants dress fabrics and textures as page backgrounds but finds the hard edge where background meets content "forced"; a white overlay washes out the fabrics. Considering a softer gradient or accepting a compromise.
