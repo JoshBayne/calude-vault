@@ -1,6 +1,6 @@
 # Wiki index
 
-> Updated: 2026-11-06 | Pages: 90 (counted excluding overview.md, index.md, log.md and lint-report.md)
+> Updated: 2026-11-07 | Pages: 92 (counted excluding overview.md, index.md, log.md and lint-report.md)
 
 Start with [[overview]].
 
@@ -16,7 +16,7 @@ Start with [[overview]].
 - [[sources/journal-2026-10-30-and-31]] — 2026-10-30 and 10-31 journal: investor and payroll wait, vault move, phone-to-git capture trouble (private)
 - [[sources/journal-2026-10-29]] — 2026-10-29 journal entry: dog, Sophia's TikTok streaming, work and funding worries, health plans (private)
 - [[sources/journal-2026-11-01]] — 2026-11-01 journal: Halloween party, low mood, pay worry, moving items between houses; evening update on Claude work and Mealie (private)
-- [[sources/journal-2026-11-02]] — 2026-11-02 journal: bloodwork, Sophia's allergist visit, Arcus call, Taiwan devs (private)
+- [[sources/journal-2026-11-02]] — 2026-11-02 journal: bloodwork, Sophia's allergist visit, call with Arcus, Taiwan devs (private)
 - [[sources/journal-2026-11-06]] — 2026-11-06 journal: Doug's $500k arrives, bills paid, heart-health worry, TikTok violation, website builder, phone GitSync (private)
 - [[sources/personal-notes]] — journal entries, weekly planning pages and hobby logs (private)
 - [[sources/personal-private-notes]] — full private journal, people pages, wishlists and lists (private)
@@ -39,6 +39,7 @@ Start with [[overview]].
 - [[sources/wiki-build-and-restructure-chat-summary]] — chat write-up: building the wiki, the stricter contract, and the restructure into sources/entities/concepts/topics
 
 ## Entities
+- [[entities/arcus]] — accounting firm URNET engaged for compliance readiness (private)
 - [[entities/aronoc]] — coastal city of five districts; setting of the late campaign
 - [[entities/bayne-homeworks]] — family appliance store; cash-flow stress in Jan 2022, closed around 2022 (private)
 - [[entities/delrun]] — frontier town and base of the first adventure
@@ -47,11 +48,12 @@ Start with [[overview]].
 - [[entities/golgum]] — Apostle posing as a priest in Aronoc
 - [[entities/josh-bayne]] — the vault owner: study, work timeline, projects (private)
 - [[entities/nezznar-the-black-spider]] — drow Apostle and Delrun-arc villain
+- [[entities/randy-bayne]] — Josh's father; CEO of URNET, earlier ran the family store (private)
 - [[entities/sophia-bayne]] — spouse; engaged 2021-12-12; TikTok live creator (private)
 - [[entities/sophias-magical-princess-party]] — children's character-entertainment company behind the website notes
 - [[entities/the-clan]] — network of independent gangs bound by a protection pact
 - [[entities/united-interstellar-coalition]] — 500-year-old governing body of humanity in the sci-fi setting
-- [[entities/urnet]] — Josh's current employer, the company of Josh's father; Doug Trauber's $500k arrived 2026-11-06, Kapil pending (private)
+- [[entities/urnet]] — Josh's current employer, the company of Josh's father; CEO Randy Bayne; Doug Trauber's $500k arrived 2026-11-06, Kapil pending (private)
 - [[entities/wave-echo-cave]] — lost mine east of Delrun and the Delrundian Pact
 
 ## Concepts

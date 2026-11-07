@@ -1,7 +1,7 @@
 ---
 type: entity
 name: "Bayne HomeWorks"
-updated: 2026-10-30
+updated: 2026-11-07
 sources: 2
 aliases: ["the store"]
 tags: [entity, organization, business, private]
@@ -24,6 +24,7 @@ Family business where Josh worked with his father until it closed around 2022 (p
 
 ## Relationships
 - Owner's profile: [[entities/josh-bayne]]
+- Run by Josh's father, [[entities/randy-bayne]] ("Dad" in the 2022 journal; name from the owner, 2026-11-07)
 - Successor in the family's work history: [[entities/urnet]] (the note does not say URNET continues the store)
 - Possible context for the AP/AR, SharePoint and compliance transcripts in [[topics/work-and-web-projects]] (inference; not stated)
 - Cash-flow stress links to [[concepts/time-value-of-money]] and [[concepts/opportunity-cost]] (inference)

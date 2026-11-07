@@ -37,6 +37,9 @@ Template: Meal Plan, Due Dates, Goals, Week in Review. All filled only for meal 
 - **W23** (late May 2022): spaghetti, tuna sandwich, stuffed peppers, bruschetta chicken, lentil soup.
 - **W24** (June 2022): all gluten-free (gnocchi, Greek salad, ravioli, pizza bites). This suggests a change in diet needs; the reason is not stated.
 
+## People
+- "Dad" in these entries is [[entities/randy-bayne]] (name from the owner, 2026-11-07).
+
 ## Themes
 - Money stress and cash flow; learning sales; school restart (accounting, finite math; see [[topics/uhcl-coursework]]).
 - Home setup (network, cameras) — see [[topics/work-and-web-projects]].

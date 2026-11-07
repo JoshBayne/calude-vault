@@ -27,6 +27,7 @@ Saved AI-assistant conversations and short tool notes related to running a small
 - **Flatten nested folders** (`nested files`): move hundreds of images/videos from deeply nested subdirectories into one folder using `find … -exec mv`, a safer variant that prefixes the parent folder name to avoid duplicate names, or `rsync`.
 
 ### Accounts payable and compliance
+- Related (connection only): URNET has engaged the accounting firm [[entities/arcus]] for compliance readiness (owner, 2026-11-07). The transcripts below do not name Arcus.
 - **AP/AR** (`ap-ar`, `ap-ar files`): weekly AP compliance tasks, vendor master file collection, and an AP folder structure; summarized in [[topics/financial-accounting]].
 - **Compliance career path** (`compliance goals`): the author holds a **BS in Finance from UHCL** and asks what learning and certifications would ease a move into internal-policy and external compliance work (e.g. **SOC 2**) at a tech company pursuing government and healthcare contracts; the answer maps finance/audit experience into compliance.
 

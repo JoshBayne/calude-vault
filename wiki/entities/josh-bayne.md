@@ -1,7 +1,7 @@
 ---
 type: entity
 name: "Josh Bayne"
-updated: 2026-11-06
+updated: 2026-11-07
 sources: 11
 aliases: ["Josh", "the author", "the vault owner"]
 tags: [entity, person, private]
@@ -31,7 +31,7 @@ The owner of the vault and author of nearly all raw notes. This page gathers fac
 
 ## Relationships
 - Journals: [[topics/daily-notes-2022]], [[sources/journal-2026-10-29]], [[sources/journal-2026-10-30-and-31]], [[sources/journal-2026-11-01]], [[sources/journal-2026-11-02]], [[sources/journal-2026-11-06]]
-- People around him: [[topics/people-private]]
+- People around him: [[topics/people-private]]; father [[entities/randy-bayne]] (CEO of URNET)
 
 ## Open questions
 - The marriage date, what URNET does, and the SBA loan outcome are not recorded.
