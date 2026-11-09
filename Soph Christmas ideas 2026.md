@@ -1,5 +1,6 @@
 She told me the glossy pink Summer Fridays box but prefers the mini sampler box at Sephora in Kohl's 
 
+
 New carabiner for keys
 
 Experiences or consumables 
